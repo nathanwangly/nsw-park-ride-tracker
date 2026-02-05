@@ -2,24 +2,26 @@ name: Daily Batch Commit
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC
+    - cron: "0 13 * * *" # Runs at 13:00 UTC (Midnight Sydney time)
   workflow_dispatch:
 
 jobs:
-  commit-data:
+  merge-data:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
         with:
-          name: daily-data
-          path: data/raw/
+          ref: main
+          fetch-depth: 0 # Fetches all history so it can merge properly
 
-      - name: Push to Repo
+      - name: Merge Data Branch into Main
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/raw/*.csv
-          git diff --quiet || (git commit -m "Daily data aggregate" && git push)
+          
+          # Bring in the changes from data-storage
+          git fetch origin data-storage
+          git merge origin/data-storage --no-ff -m "Daily data aggregate: $(date +'%Y-%m-%d')"
+          
+          # Push the consolidated data to main
+          git push origin main

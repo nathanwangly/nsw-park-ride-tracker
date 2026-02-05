@@ -3,7 +3,6 @@ import requests
 import time
 import csv
 from datetime import datetime, time as dtime
-import pytz
 
 # Base URL for the Car Park API
 BASE_URL = "https://api.transport.nsw.gov.au/v1/carpark"
@@ -55,16 +54,6 @@ TARGET_IDS = [
     "489", # Manly Vale
     "490" # Brookvale
 ]
-
-def within_collection_window():
-    tz = pytz.timezone("Australia/Sydney")
-    now = datetime.now(tz).time()
-
-    # Define the single collection window
-    start_time = dtime(5, 30)
-    end_time   = dtime(21, 30)
-
-    return start_time <= now <= end_time
 
 def fetch_all_park_and_ride():
     results = []
@@ -160,10 +149,8 @@ def save_to_csv(data):
     print(f"Successfully appended data to {full_path}")
 
 if __name__ == "__main__":
-    if not within_collection_window():
-        print("Outside collection window. Exiting.")
-        exit(0)
-
     final_data = fetch_all_park_and_ride()
     if final_data:
         save_to_csv(final_data)
+    else:
+        print("No data fetched.")

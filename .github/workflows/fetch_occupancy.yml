@@ -1,8 +1,8 @@
 name: Fetch Data
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
+  repository_dispatch:
+    types: [external_trigger]
   workflow_dispatch:
 
 jobs:
@@ -10,20 +10,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: data-storage # Check out the data branch specifically
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
+      - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Sync scripts from main
+        run: |
+          git fetch origin main
+          # This pulls just the 'scripts' folder from main into our current branch
+          git checkout origin/main -- scripts/
+
       - name: Run fetch script
         env:
           TFNSW_API_KEY: ${{ secrets.TFNSW_API_KEY }}
-        run: |
-          pip install requests pytz
-          python scripts/fetch_occupancy_data.py
+        run: python scripts/fetch_occupancy_data.py
 
-      - name: Upload temporary data
-        uses: actions/upload-artifact@v4
-        with:
-          name: daily-data
-          path: data/raw/*.csv
-          retention-days: 1 # We only need it until the end of the day
+      - name: Commit to Data Branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/raw/*.csv
+          # Only push if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Capture: $(date +'%Y-%m-%d %H:%M')" && git push origin data-storage)
