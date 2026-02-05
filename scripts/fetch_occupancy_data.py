@@ -126,10 +126,19 @@ def save_to_csv(data):
     # 2. Ensure the directory exists
     os.makedirs(output_dir, exist_ok=True)
 
-    # 3. Determine filename based on current year
-    current_year = datetime.now().year
-    filename = f"{current_year}_occupancy_data.csv"
-    full_path = os.path.join(output_dir, filename)
+    # 3. Determine filename based on current month/year
+    now = datetime.now()
+
+    current_year = now.strftime("%Y")
+    current_month = now.strftime("%Y-%m")
+
+    # data/raw/<year>/
+    year_dir = os.path.join(output_dir, current_year)
+    os.makedirs(year_dir, exist_ok=True)
+
+    # data/raw/<year>/<year>-<month>.csv
+    filename = f"{current_month}.csv"
+    full_path = os.path.join(year_dir, filename)
     
     fieldnames = [
         "timestamp_utc", "facility_id", "facility_name", "tfnsw_facility_id",
