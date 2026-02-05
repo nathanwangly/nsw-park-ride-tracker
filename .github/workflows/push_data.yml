@@ -1,0 +1,25 @@
+name: Daily Batch Commit
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  commit-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: daily-data
+          path: data/raw/
+
+      - name: Push to Repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/raw/*.csv
+          git diff --quiet || (git commit -m "Daily data aggregate" && git push)
