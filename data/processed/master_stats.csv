@@ -1,508 +1,508 @@
 facility_name,day_of_week,time_bin,is_school_holiday,n,sum_available,sum_sq_available,full_count
-Park&Ride - Ashfield,3,30,False,1,205,42025,0
-Park&Ride - Ashfield,3,31,False,1,196,38416,0
-Park&Ride - Ashfield,3,32,False,1,188,35344,0
-Park&Ride - Ashfield,3,33,False,1,179,32041,0
-Park&Ride - Ashfield,3,34,False,1,176,30976,0
-Park&Ride - Ashfield,3,35,False,1,169,28561,0
-Park&Ride - Ashfield,3,36,False,1,157,24649,0
-Park&Ride - Ashfield,3,37,False,1,141,19881,0
-Park&Ride - Ashfield,3,38,False,1,128,16384,0
-Park&Ride - Ashfield,3,39,False,1,110,12100,0
-Park&Ride - Ashfield,3,40,False,1,97,9409,0
-Park&Ride - Ashfield,3,41,False,1,77,5929,0
-Park&Ride - Ashfield,3,42,False,1,48,2304,0
-Park&Ride - Bella Vista,3,30,False,1,755,570025,0
-Park&Ride - Bella Vista,3,31,False,1,748,559504,0
-Park&Ride - Bella Vista,3,32,False,1,733,537289,0
-Park&Ride - Bella Vista,3,33,False,1,717,514089,0
-Park&Ride - Bella Vista,3,34,False,1,703,494209,0
-Park&Ride - Bella Vista,3,35,False,1,693,480249,0
-Park&Ride - Bella Vista,3,36,False,1,680,462400,0
-Park&Ride - Bella Vista,3,37,False,1,671,450241,0
-Park&Ride - Bella Vista,3,38,False,1,655,429025,0
-Park&Ride - Bella Vista,3,39,False,1,632,399424,0
-Park&Ride - Bella Vista,3,40,False,1,606,367236,0
-Park&Ride - Bella Vista,3,41,False,1,569,323761,0
-Park&Ride - Bella Vista,3,42,False,1,529,279841,0
-Park&Ride - Beverly Hills,3,30,False,1,200,40000,0
-Park&Ride - Beverly Hills,3,31,False,1,199,39601,0
-Park&Ride - Beverly Hills,3,32,False,1,198,39204,0
-Park&Ride - Beverly Hills,3,33,False,1,196,38416,0
-Park&Ride - Beverly Hills,3,34,False,1,195,38025,0
-Park&Ride - Beverly Hills,3,35,False,1,195,38025,0
-Park&Ride - Beverly Hills,3,36,False,1,195,38025,0
-Park&Ride - Beverly Hills,3,37,False,1,195,38025,0
-Park&Ride - Beverly Hills,3,38,False,1,194,37636,0
-Park&Ride - Beverly Hills,3,39,False,1,191,36481,0
-Park&Ride - Beverly Hills,3,40,False,1,189,35721,0
-Park&Ride - Beverly Hills,3,41,False,1,187,34969,0
-Park&Ride - Beverly Hills,3,42,False,1,185,34225,0
-Park&Ride - Brookvale,3,30,False,1,239,57121,0
-Park&Ride - Brookvale,3,31,False,1,238,56644,0
-Park&Ride - Brookvale,3,32,False,1,235,55225,0
-Park&Ride - Brookvale,3,33,False,1,234,54756,0
-Park&Ride - Brookvale,3,34,False,1,232,53824,0
-Park&Ride - Brookvale,3,35,False,1,226,51076,0
-Park&Ride - Brookvale,3,36,False,1,219,47961,0
-Park&Ride - Brookvale,3,37,False,1,216,46656,0
-Park&Ride - Brookvale,3,38,False,1,208,43264,0
-Park&Ride - Brookvale,3,39,False,1,194,37636,0
-Park&Ride - Brookvale,3,40,False,1,175,30625,0
-Park&Ride - Brookvale,3,41,False,1,163,26569,0
-Park&Ride - Brookvale,3,42,False,1,141,19881,0
-Park&Ride - Campbelltown Farrow Rd (north),3,30,False,1,13,169,0
-Park&Ride - Campbelltown Farrow Rd (north),3,31,False,1,10,100,0
-Park&Ride - Campbelltown Farrow Rd (north),3,32,False,1,6,36,0
-Park&Ride - Campbelltown Farrow Rd (north),3,33,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,34,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,35,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,36,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,37,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,38,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,39,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,40,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,41,False,1,0,0,1
-Park&Ride - Campbelltown Farrow Rd (north),3,42,False,1,0,0,1
-Park&Ride - Campbelltown Hurley St,3,30,False,1,78,6084,0
-Park&Ride - Campbelltown Hurley St,3,31,False,1,75,5625,0
-Park&Ride - Campbelltown Hurley St,3,32,False,1,66,4356,0
-Park&Ride - Campbelltown Hurley St,3,33,False,1,64,4096,0
-Park&Ride - Campbelltown Hurley St,3,34,False,1,62,3844,0
-Park&Ride - Campbelltown Hurley St,3,35,False,1,57,3249,0
-Park&Ride - Campbelltown Hurley St,3,36,False,1,54,2916,0
-Park&Ride - Campbelltown Hurley St,3,37,False,1,50,2500,0
-Park&Ride - Campbelltown Hurley St,3,38,False,1,41,1681,0
-Park&Ride - Campbelltown Hurley St,3,39,False,1,33,1089,0
-Park&Ride - Campbelltown Hurley St,3,40,False,1,28,784,0
-Park&Ride - Campbelltown Hurley St,3,41,False,1,25,625,0
-Park&Ride - Campbelltown Hurley St,3,42,False,1,23,529,0
-Park&Ride - Cherrybrook,3,30,False,1,354,125316,0
-Park&Ride - Cherrybrook,3,31,False,1,346,119716,0
-Park&Ride - Cherrybrook,3,32,False,1,336,112896,0
-Park&Ride - Cherrybrook,3,33,False,1,328,107584,0
-Park&Ride - Cherrybrook,3,34,False,1,311,96721,0
-Park&Ride - Cherrybrook,3,35,False,1,288,82944,0
-Park&Ride - Cherrybrook,3,36,False,1,251,63001,0
-Park&Ride - Cherrybrook,3,37,False,1,222,49284,0
-Park&Ride - Cherrybrook,3,38,False,1,167,27889,0
-Park&Ride - Cherrybrook,3,39,False,1,89,7921,0
-Park&Ride - Cherrybrook,3,40,False,1,13,169,0
-Park&Ride - Cherrybrook,3,41,False,1,0,0,1
-Park&Ride - Cherrybrook,3,42,False,1,0,0,1
-Park&Ride - Dee Why,3,30,False,1,120,14400,0
-Park&Ride - Dee Why,3,31,False,1,120,14400,0
-Park&Ride - Dee Why,3,32,False,1,120,14400,0
-Park&Ride - Dee Why,3,33,False,1,119,14161,0
-Park&Ride - Dee Why,3,34,False,1,118,13924,0
-Park&Ride - Dee Why,3,35,False,1,117,13689,0
-Park&Ride - Dee Why,3,36,False,1,116,13456,0
-Park&Ride - Dee Why,3,37,False,1,115,13225,0
-Park&Ride - Dee Why,3,38,False,1,113,12769,0
-Park&Ride - Dee Why,3,39,False,1,111,12321,0
-Park&Ride - Dee Why,3,40,False,1,106,11236,0
-Park&Ride - Dee Why,3,41,False,1,103,10609,0
-Park&Ride - Dee Why,3,42,False,1,98,9604,0
-Park&Ride - Edmondson Park (north),3,30,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,31,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,32,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,33,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,34,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,35,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,36,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,37,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,38,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,39,False,1,915,837225,0
-Park&Ride - Edmondson Park (north),3,40,False,1,914,835396,0
-Park&Ride - Edmondson Park (north),3,41,False,1,909,826281,0
-Park&Ride - Edmondson Park (north),3,42,False,1,908,824464,0
-Park&Ride - Edmondson Park (south),3,30,False,1,1343,1803649,0
-Park&Ride - Edmondson Park (south),3,31,False,1,1336,1784896,0
-Park&Ride - Edmondson Park (south),3,32,False,1,1320,1742400,0
-Park&Ride - Edmondson Park (south),3,33,False,1,1314,1726596,0
-Park&Ride - Edmondson Park (south),3,34,False,1,1308,1710864,0
-Park&Ride - Edmondson Park (south),3,35,False,1,1296,1679616,0
-Park&Ride - Edmondson Park (south),3,36,False,1,1280,1638400,0
-Park&Ride - Edmondson Park (south),3,37,False,1,1260,1587600,0
-Park&Ride - Edmondson Park (south),3,38,False,1,1227,1505529,0
-Park&Ride - Edmondson Park (south),3,39,False,1,1194,1425636,0
-Park&Ride - Edmondson Park (south),3,40,False,1,1164,1354896,0
-Park&Ride - Edmondson Park (south),3,41,False,1,1095,1199025,0
-Park&Ride - Edmondson Park (south),3,42,False,1,1027,1054729,0
-Park&Ride - Emu Plains,3,30,False,1,749,561001,0
-Park&Ride - Emu Plains,3,31,False,1,749,561001,0
-Park&Ride - Emu Plains,3,32,False,1,748,559504,0
-Park&Ride - Emu Plains,3,33,False,1,748,559504,0
-Park&Ride - Emu Plains,3,34,False,1,748,559504,0
-Park&Ride - Emu Plains,3,35,False,1,746,556516,0
-Park&Ride - Emu Plains,3,36,False,1,746,556516,0
-Park&Ride - Emu Plains,3,37,False,1,744,553536,0
-Park&Ride - Emu Plains,3,38,False,1,743,552049,0
-Park&Ride - Emu Plains,3,39,False,1,742,550564,0
-Park&Ride - Emu Plains,3,40,False,1,738,544644,0
-Park&Ride - Emu Plains,3,41,False,1,736,541696,0
-Park&Ride - Emu Plains,3,42,False,1,732,535824,0
-Park&Ride - Gordon Henry St (north),3,30,False,1,210,44100,0
-Park&Ride - Gordon Henry St (north),3,31,False,1,208,43264,0
-Park&Ride - Gordon Henry St (north),3,32,False,1,207,42849,0
-Park&Ride - Gordon Henry St (north),3,33,False,1,206,42436,0
-Park&Ride - Gordon Henry St (north),3,34,False,1,203,41209,0
-Park&Ride - Gordon Henry St (north),3,35,False,1,202,40804,0
-Park&Ride - Gordon Henry St (north),3,36,False,1,199,39601,0
-Park&Ride - Gordon Henry St (north),3,37,False,1,192,36864,0
-Park&Ride - Gordon Henry St (north),3,38,False,1,185,34225,0
-Park&Ride - Gordon Henry St (north),3,39,False,1,177,31329,0
-Park&Ride - Gordon Henry St (north),3,40,False,1,163,26569,0
-Park&Ride - Gordon Henry St (north),3,41,False,1,140,19600,0
-Park&Ride - Gordon Henry St (north),3,42,False,1,103,10609,0
-Park&Ride - Gosford,3,30,False,1,997,994009,0
-Park&Ride - Gosford,3,31,False,1,993,986049,0
-Park&Ride - Gosford,3,32,False,1,980,960400,0
-Park&Ride - Gosford,3,33,False,1,942,887364,0
-Park&Ride - Gosford,3,34,False,1,922,850084,0
-Park&Ride - Gosford,3,35,False,1,907,822649,0
-Park&Ride - Gosford,3,36,False,1,841,707281,0
-Park&Ride - Gosford,3,37,False,1,787,619369,0
-Park&Ride - Gosford,3,38,False,1,722,521284,0
-Park&Ride - Gosford,3,39,False,1,650,422500,0
-Park&Ride - Gosford,3,40,False,1,573,328329,0
-Park&Ride - Gosford,3,41,False,1,471,221841,0
-Park&Ride - Gosford,3,42,False,1,398,158404,0
-Park&Ride - Hills Showground,3,30,False,1,567,321489,0
-Park&Ride - Hills Showground,3,31,False,1,563,316969,0
-Park&Ride - Hills Showground,3,32,False,1,551,303601,0
-Park&Ride - Hills Showground,3,33,False,1,541,292681,0
-Park&Ride - Hills Showground,3,34,False,1,526,276676,0
-Park&Ride - Hills Showground,3,35,False,1,509,259081,0
-Park&Ride - Hills Showground,3,36,False,1,495,245025,0
-Park&Ride - Hills Showground,3,37,False,1,481,231361,0
-Park&Ride - Hills Showground,3,38,False,1,441,194481,0
-Park&Ride - Hills Showground,3,39,False,1,389,151321,0
-Park&Ride - Hills Showground,3,40,False,1,316,99856,0
-Park&Ride - Hills Showground,3,41,False,1,235,55225,0
-Park&Ride - Hills Showground,3,42,False,1,137,18769,0
-Park&Ride - Hornsby,3,30,False,1,139,19321,0
-Park&Ride - Hornsby,3,31,False,1,138,19044,0
-Park&Ride - Hornsby,3,32,False,1,137,18769,0
-Park&Ride - Hornsby,3,33,False,1,132,17424,0
-Park&Ride - Hornsby,3,34,False,1,129,16641,0
-Park&Ride - Hornsby,3,35,False,1,128,16384,0
-Park&Ride - Hornsby,3,36,False,1,122,14884,0
-Park&Ride - Hornsby,3,37,False,1,119,14161,0
-Park&Ride - Hornsby,3,38,False,1,116,13456,0
-Park&Ride - Hornsby,3,39,False,1,109,11881,0
-Park&Ride - Hornsby,3,40,False,1,102,10404,0
-Park&Ride - Hornsby,3,41,False,1,86,7396,0
-Park&Ride - Hornsby,3,42,False,1,73,5329,0
-Park&Ride - Kellyville (north),3,30,False,1,345,119025,0
-Park&Ride - Kellyville (north),3,31,False,1,345,119025,0
-Park&Ride - Kellyville (north),3,32,False,1,342,116964,0
-Park&Ride - Kellyville (north),3,33,False,1,341,116281,0
-Park&Ride - Kellyville (north),3,34,False,1,341,116281,0
-Park&Ride - Kellyville (north),3,35,False,1,341,116281,0
-Park&Ride - Kellyville (north),3,36,False,1,339,114921,0
-Park&Ride - Kellyville (north),3,37,False,1,336,112896,0
-Park&Ride - Kellyville (north),3,38,False,1,329,108241,0
-Park&Ride - Kellyville (north),3,39,False,1,326,106276,0
-Park&Ride - Kellyville (north),3,40,False,1,318,101124,0
-Park&Ride - Kellyville (north),3,41,False,1,309,95481,0
-Park&Ride - Kellyville (north),3,42,False,1,294,86436,0
-Park&Ride - Kellyville (south),3,30,False,1,929,863041,0
-Park&Ride - Kellyville (south),3,31,False,1,920,846400,0
-Park&Ride - Kellyville (south),3,32,False,1,912,831744,0
-Park&Ride - Kellyville (south),3,33,False,1,902,813604,0
-Park&Ride - Kellyville (south),3,34,False,1,874,763876,0
-Park&Ride - Kellyville (south),3,35,False,1,858,736164,0
-Park&Ride - Kellyville (south),3,36,False,1,834,695556,0
-Park&Ride - Kellyville (south),3,37,False,1,811,657721,0
-Park&Ride - Kellyville (south),3,38,False,1,784,614656,0
-Park&Ride - Kellyville (south),3,39,False,1,742,550564,0
-Park&Ride - Kellyville (south),3,40,False,1,686,470596,0
-Park&Ride - Kellyville (south),3,41,False,1,611,373321,0
-Park&Ride - Kellyville (south),3,42,False,1,522,272484,0
-Park&Ride - Kiama,3,30,False,1,41,1681,0
-Park&Ride - Kiama,3,31,False,1,41,1681,0
-Park&Ride - Kiama,3,32,False,1,41,1681,0
-Park&Ride - Kiama,3,33,False,1,40,1600,0
-Park&Ride - Kiama,3,34,False,1,40,1600,0
-Park&Ride - Kiama,3,35,False,1,40,1600,0
-Park&Ride - Kiama,3,36,False,1,40,1600,0
-Park&Ride - Kiama,3,37,False,1,39,1521,0
-Park&Ride - Kiama,3,38,False,1,38,1444,0
-Park&Ride - Kiama,3,39,False,1,37,1369,0
-Park&Ride - Kiama,3,40,False,1,37,1369,0
-Park&Ride - Kiama,3,41,False,1,36,1296,0
-Park&Ride - Kiama,3,42,False,1,35,1225,0
-Park&Ride - Kogarah,3,30,False,1,250,62500,0
-Park&Ride - Kogarah,3,31,False,1,245,60025,0
-Park&Ride - Kogarah,3,32,False,1,236,55696,0
-Park&Ride - Kogarah,3,33,False,1,226,51076,0
-Park&Ride - Kogarah,3,34,False,1,221,48841,0
-Park&Ride - Kogarah,3,35,False,1,204,41616,0
-Park&Ride - Kogarah,3,36,False,1,194,37636,0
-Park&Ride - Kogarah,3,37,False,1,188,35344,0
-Park&Ride - Kogarah,3,38,False,1,177,31329,0
-Park&Ride - Kogarah,3,39,False,1,167,27889,0
-Park&Ride - Kogarah,3,40,False,1,154,23716,0
-Park&Ride - Kogarah,3,41,False,1,142,20164,0
-Park&Ride - Kogarah,3,42,False,1,121,14641,0
-Park&Ride - Leppington,3,30,False,1,1627,2647129,0
-Park&Ride - Leppington,3,31,False,1,1620,2624400,0
-Park&Ride - Leppington,3,32,False,1,1607,2582449,0
-Park&Ride - Leppington,3,33,False,1,1588,2521744,0
-Park&Ride - Leppington,3,34,False,1,1561,2436721,0
-Park&Ride - Leppington,3,35,False,1,1541,2374681,0
-Park&Ride - Leppington,3,36,False,1,1493,2229049,0
-Park&Ride - Leppington,3,37,False,1,1453,2111209,0
-Park&Ride - Leppington,3,38,False,1,1414,1999396,0
-Park&Ride - Leppington,3,39,False,1,1345,1809025,0
-Park&Ride - Leppington,3,40,False,1,1275,1625625,0
-Park&Ride - Leppington,3,41,False,1,1211,1466521,0
-Park&Ride - Leppington,3,42,False,1,1123,1261129,0
-Park&Ride - Lindfield Village Green,3,30,False,1,91,8281,0
-Park&Ride - Lindfield Village Green,3,31,False,1,91,8281,0
-Park&Ride - Lindfield Village Green,3,32,False,1,91,8281,0
-Park&Ride - Lindfield Village Green,3,33,False,1,89,7921,0
-Park&Ride - Lindfield Village Green,3,34,False,1,89,7921,0
-Park&Ride - Lindfield Village Green,3,35,False,1,86,7396,0
-Park&Ride - Lindfield Village Green,3,36,False,1,86,7396,0
-Park&Ride - Lindfield Village Green,3,37,False,1,86,7396,0
-Park&Ride - Lindfield Village Green,3,38,False,1,85,7225,0
-Park&Ride - Lindfield Village Green,3,39,False,1,82,6724,0
-Park&Ride - Lindfield Village Green,3,40,False,1,80,6400,0
-Park&Ride - Lindfield Village Green,3,41,False,1,75,5625,0
-Park&Ride - Lindfield Village Green,3,42,False,1,74,5476,0
-Park&Ride - Manly Vale,3,30,False,1,139,19321,0
-Park&Ride - Manly Vale,3,31,False,1,138,19044,0
-Park&Ride - Manly Vale,3,32,False,1,135,18225,0
-Park&Ride - Manly Vale,3,33,False,1,132,17424,0
-Park&Ride - Manly Vale,3,34,False,1,128,16384,0
-Park&Ride - Manly Vale,3,35,False,1,124,15376,0
-Park&Ride - Manly Vale,3,36,False,1,120,14400,0
-Park&Ride - Manly Vale,3,37,False,1,115,13225,0
-Park&Ride - Manly Vale,3,38,False,1,110,12100,0
-Park&Ride - Manly Vale,3,39,False,1,108,11664,0
-Park&Ride - Manly Vale,3,40,False,1,99,9801,0
-Park&Ride - Manly Vale,3,41,False,1,92,8464,0
-Park&Ride - Manly Vale,3,42,False,1,79,6241,0
-Park&Ride - Mona Vale,3,30,False,1,68,4624,0
-Park&Ride - Mona Vale,3,31,False,1,66,4356,0
-Park&Ride - Mona Vale,3,32,False,1,64,4096,0
-Park&Ride - Mona Vale,3,33,False,1,64,4096,0
-Park&Ride - Mona Vale,3,34,False,1,63,3969,0
-Park&Ride - Mona Vale,3,35,False,1,62,3844,0
-Park&Ride - Mona Vale,3,36,False,1,60,3600,0
-Park&Ride - Mona Vale,3,37,False,1,58,3364,0
-Park&Ride - Mona Vale,3,38,False,1,50,2500,0
-Park&Ride - Mona Vale,3,39,False,1,44,1936,0
-Park&Ride - Mona Vale,3,40,False,1,35,1225,0
-Park&Ride - Mona Vale,3,41,False,1,25,625,0
-Park&Ride - Mona Vale,3,42,False,1,9,81,0
-Park&Ride - Narrabeen,3,30,False,1,42,1764,0
-Park&Ride - Narrabeen,3,31,False,1,42,1764,0
-Park&Ride - Narrabeen,3,32,False,1,41,1681,0
-Park&Ride - Narrabeen,3,33,False,1,40,1600,0
-Park&Ride - Narrabeen,3,34,False,1,39,1521,0
-Park&Ride - Narrabeen,3,35,False,1,39,1521,0
-Park&Ride - Narrabeen,3,36,False,1,38,1444,0
-Park&Ride - Narrabeen,3,37,False,1,32,1024,0
-Park&Ride - Narrabeen,3,38,False,1,31,961,0
-Park&Ride - Narrabeen,3,39,False,1,28,784,0
-Park&Ride - Narrabeen,3,40,False,1,24,576,0
-Park&Ride - Narrabeen,3,41,False,1,22,484,0
-Park&Ride - Narrabeen,3,42,False,1,16,256,0
-Park&Ride - North Rocks,3,30,False,1,139,19321,0
-Park&Ride - North Rocks,3,31,False,1,139,19321,0
-Park&Ride - North Rocks,3,32,False,1,138,19044,0
-Park&Ride - North Rocks,3,33,False,1,138,19044,0
-Park&Ride - North Rocks,3,34,False,1,138,19044,0
-Park&Ride - North Rocks,3,35,False,1,138,19044,0
-Park&Ride - North Rocks,3,36,False,1,138,19044,0
-Park&Ride - North Rocks,3,37,False,1,138,19044,0
-Park&Ride - North Rocks,3,38,False,1,138,19044,0
-Park&Ride - North Rocks,3,39,False,1,138,19044,0
-Park&Ride - North Rocks,3,40,False,1,138,19044,0
-Park&Ride - North Rocks,3,41,False,1,137,18769,0
-Park&Ride - North Rocks,3,42,False,1,133,17689,0
-Park&Ride - Penrith (at-grade),3,30,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,31,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,32,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,33,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,34,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,35,False,1,229,52441,0
-Park&Ride - Penrith (at-grade),3,36,False,1,228,51984,0
-Park&Ride - Penrith (at-grade),3,37,False,1,227,51529,0
-Park&Ride - Penrith (at-grade),3,38,False,1,227,51529,0
-Park&Ride - Penrith (at-grade),3,39,False,1,225,50625,0
-Park&Ride - Penrith (at-grade),3,40,False,1,224,50176,0
-Park&Ride - Penrith (at-grade),3,41,False,1,221,48841,0
-Park&Ride - Penrith (at-grade),3,42,False,1,219,47961,0
-Park&Ride - Penrith (multi-level),3,30,False,1,1087,1181569,0
-Park&Ride - Penrith (multi-level),3,31,False,1,1077,1159929,0
-Park&Ride - Penrith (multi-level),3,32,False,1,1062,1127844,0
-Park&Ride - Penrith (multi-level),3,33,False,1,1054,1110916,0
-Park&Ride - Penrith (multi-level),3,34,False,1,1042,1085764,0
-Park&Ride - Penrith (multi-level),3,35,False,1,1021,1042441,0
-Park&Ride - Penrith (multi-level),3,36,False,1,1009,1018081,0
-Park&Ride - Penrith (multi-level),3,37,False,1,995,990025,0
-Park&Ride - Penrith (multi-level),3,38,False,1,964,929296,0
-Park&Ride - Penrith (multi-level),3,39,False,1,930,864900,0
-Park&Ride - Penrith (multi-level),3,40,False,1,896,802816,0
-Park&Ride - Penrith (multi-level),3,41,False,1,857,734449,0
-Park&Ride - Penrith (multi-level),3,42,False,1,818,669124,0
-Park&Ride - Revesby,3,30,False,1,914,835396,0
-Park&Ride - Revesby,3,31,False,1,910,828100,0
-Park&Ride - Revesby,3,32,False,1,903,815409,0
-Park&Ride - Revesby,3,33,False,1,895,801025,0
-Park&Ride - Revesby,3,34,False,1,885,783225,0
-Park&Ride - Revesby,3,35,False,1,880,774400,0
-Park&Ride - Revesby,3,36,False,1,873,762129,0
-Park&Ride - Revesby,3,37,False,1,857,734449,0
-Park&Ride - Revesby,3,38,False,1,841,707281,0
-Park&Ride - Revesby,3,39,False,1,827,683929,0
-Park&Ride - Revesby,3,40,False,1,813,660969,0
-Park&Ride - Revesby,3,41,False,1,789,622521,0
-Park&Ride - Revesby,3,42,False,1,744,553536,0
-Park&Ride - Riverwood,3,30,False,1,109,11881,0
-Park&Ride - Riverwood,3,31,False,1,109,11881,0
-Park&Ride - Riverwood,3,32,False,1,109,11881,0
-Park&Ride - Riverwood,3,33,False,1,109,11881,0
-Park&Ride - Riverwood,3,34,False,1,108,11664,0
-Park&Ride - Riverwood,3,35,False,1,108,11664,0
-Park&Ride - Riverwood,3,36,False,1,108,11664,0
-Park&Ride - Riverwood,3,37,False,1,108,11664,0
-Park&Ride - Riverwood,3,38,False,1,107,11449,0
-Park&Ride - Riverwood,3,39,False,1,104,10816,0
-Park&Ride - Riverwood,3,40,False,1,103,10609,0
-Park&Ride - Riverwood,3,41,False,1,97,9409,0
-Park&Ride - Riverwood,3,42,False,1,95,9025,0
-Park&Ride - Schofields,3,30,False,1,691,477481,0
-Park&Ride - Schofields,3,31,False,1,686,470596,0
-Park&Ride - Schofields,3,32,False,1,685,469225,0
-Park&Ride - Schofields,3,33,False,1,684,467856,0
-Park&Ride - Schofields,3,34,False,1,681,463761,0
-Park&Ride - Schofields,3,35,False,1,677,458329,0
-Park&Ride - Schofields,3,36,False,1,670,448900,0
-Park&Ride - Schofields,3,37,False,1,661,436921,0
-Park&Ride - Schofields,3,38,False,1,660,435600,0
-Park&Ride - Schofields,3,39,False,1,647,418609,0
-Park&Ride - Schofields,3,40,False,1,632,399424,0
-Park&Ride - Schofields,3,41,False,1,602,362404,0
-Park&Ride - Schofields,3,42,False,1,561,314721,0
-Park&Ride - Seven Hills,3,30,False,1,1590,2528100,0
-Park&Ride - Seven Hills,3,31,False,1,1584,2509056,0
-Park&Ride - Seven Hills,3,32,False,1,1572,2471184,0
-Park&Ride - Seven Hills,3,33,False,1,1568,2458624,0
-Park&Ride - Seven Hills,3,34,False,1,1563,2442969,0
-Park&Ride - Seven Hills,3,35,False,1,1556,2421136,0
-Park&Ride - Seven Hills,3,36,False,1,1550,2402500,0
-Park&Ride - Seven Hills,3,37,False,1,1542,2377764,0
-Park&Ride - Seven Hills,3,38,False,1,1531,2343961,0
-Park&Ride - Seven Hills,3,39,False,1,1514,2292196,0
-Park&Ride - Seven Hills,3,40,False,1,1498,2244004,0
-Park&Ride - Seven Hills,3,41,False,1,1483,2199289,0
-Park&Ride - Seven Hills,3,42,False,1,1448,2096704,0
-Park&Ride - St Marys,3,30,False,1,644,414736,0
-Park&Ride - St Marys,3,31,False,1,641,410881,0
-Park&Ride - St Marys,3,32,False,1,634,401956,0
-Park&Ride - St Marys,3,33,False,1,629,395641,0
-Park&Ride - St Marys,3,34,False,1,617,380689,0
-Park&Ride - St Marys,3,35,False,1,609,370881,0
-Park&Ride - St Marys,3,36,False,1,598,357604,0
-Park&Ride - St Marys,3,37,False,1,583,339889,0
-Park&Ride - St Marys,3,38,False,1,570,324900,0
-Park&Ride - St Marys,3,39,False,1,561,314721,0
-Park&Ride - St Marys,3,40,False,1,549,301401,0
-Park&Ride - St Marys,3,41,False,1,522,272484,0
-Park&Ride - St Marys,3,42,False,1,493,243049,0
-Park&Ride - Sutherland,3,30,False,1,333,110889,0
-Park&Ride - Sutherland,3,31,False,1,325,105625,0
-Park&Ride - Sutherland,3,32,False,1,317,100489,0
-Park&Ride - Sutherland,3,33,False,1,302,91204,0
-Park&Ride - Sutherland,3,34,False,1,290,84100,0
-Park&Ride - Sutherland,3,35,False,1,283,80089,0
-Park&Ride - Sutherland,3,36,False,1,269,72361,0
-Park&Ride - Sutherland,3,37,False,1,252,63504,0
-Park&Ride - Sutherland,3,38,False,1,241,58081,0
-Park&Ride - Sutherland,3,39,False,1,203,41209,0
-Park&Ride - Sutherland,3,40,False,1,192,36864,0
-Park&Ride - Sutherland,3,41,False,1,170,28900,0
-Park&Ride - Sutherland,3,42,False,1,134,17956,0
-Park&Ride - Tallawong P1,3,30,False,1,42,1764,0
-Park&Ride - Tallawong P1,3,31,False,1,30,900,0
-Park&Ride - Tallawong P1,3,32,False,1,22,484,0
-Park&Ride - Tallawong P1,3,33,False,1,19,361,0
-Park&Ride - Tallawong P1,3,34,False,1,18,324,0
-Park&Ride - Tallawong P1,3,35,False,1,18,324,0
-Park&Ride - Tallawong P1,3,36,False,1,17,289,0
-Park&Ride - Tallawong P1,3,37,False,1,19,361,0
-Park&Ride - Tallawong P1,3,38,False,1,22,484,0
-Park&Ride - Tallawong P1,3,39,False,1,16,256,0
-Park&Ride - Tallawong P1,3,40,False,1,15,225,0
-Park&Ride - Tallawong P1,3,41,False,1,11,121,0
-Park&Ride - Tallawong P1,3,42,False,1,8,64,0
-Park&Ride - Tallawong P2,3,30,False,1,415,172225,0
-Park&Ride - Tallawong P2,3,31,False,1,400,160000,0
-Park&Ride - Tallawong P2,3,32,False,1,378,142884,0
-Park&Ride - Tallawong P2,3,33,False,1,355,126025,0
-Park&Ride - Tallawong P2,3,34,False,1,321,103041,0
-Park&Ride - Tallawong P2,3,35,False,1,289,83521,0
-Park&Ride - Tallawong P2,3,36,False,1,236,55696,0
-Park&Ride - Tallawong P2,3,37,False,1,189,35721,0
-Park&Ride - Tallawong P2,3,38,False,1,132,17424,0
-Park&Ride - Tallawong P2,3,39,False,1,71,5041,0
-Park&Ride - Tallawong P2,3,40,False,1,32,1024,0
-Park&Ride - Tallawong P2,3,41,False,1,9,81,0
-Park&Ride - Tallawong P2,3,42,False,1,9,81,0
-Park&Ride - Tallawong P3,3,30,False,1,396,156816,0
-Park&Ride - Tallawong P3,3,31,False,1,396,156816,0
-Park&Ride - Tallawong P3,3,32,False,1,396,156816,0
-Park&Ride - Tallawong P3,3,33,False,1,395,156025,0
-Park&Ride - Tallawong P3,3,34,False,1,394,155236,0
-Park&Ride - Tallawong P3,3,35,False,1,391,152881,0
-Park&Ride - Tallawong P3,3,36,False,1,387,149769,0
-Park&Ride - Tallawong P3,3,37,False,1,378,142884,0
-Park&Ride - Tallawong P3,3,38,False,1,358,128164,0
-Park&Ride - Tallawong P3,3,39,False,1,331,109561,0
-Park&Ride - Tallawong P3,3,40,False,1,265,70225,0
-Park&Ride - Tallawong P3,3,41,False,1,169,28561,0
-Park&Ride - Tallawong P3,3,42,False,1,60,3600,0
-Park&Ride - Warriewood,3,30,False,1,232,53824,0
-Park&Ride - Warriewood,3,31,False,1,231,53361,0
-Park&Ride - Warriewood,3,32,False,1,230,52900,0
-Park&Ride - Warriewood,3,33,False,1,230,52900,0
-Park&Ride - Warriewood,3,34,False,1,230,52900,0
-Park&Ride - Warriewood,3,35,False,1,230,52900,0
-Park&Ride - Warriewood,3,36,False,1,227,51529,0
-Park&Ride - Warriewood,3,37,False,1,226,51076,0
-Park&Ride - Warriewood,3,38,False,1,223,49729,0
-Park&Ride - Warriewood,3,39,False,1,217,47089,0
-Park&Ride - Warriewood,3,40,False,1,207,42849,0
-Park&Ride - Warriewood,3,41,False,1,201,40401,0
-Park&Ride - Warriewood,3,42,False,1,196,38416,0
-Park&Ride - Warwick Farm,3,30,False,1,872,760384,0
-Park&Ride - Warwick Farm,3,31,False,1,867,751689,0
-Park&Ride - Warwick Farm,3,32,False,1,856,732736,0
-Park&Ride - Warwick Farm,3,33,False,1,853,727609,0
-Park&Ride - Warwick Farm,3,34,False,1,842,708964,0
-Park&Ride - Warwick Farm,3,35,False,1,838,702244,0
-Park&Ride - Warwick Farm,3,36,False,1,836,698896,0
-Park&Ride - Warwick Farm,3,37,False,1,827,683929,0
-Park&Ride - Warwick Farm,3,38,False,1,807,651249,0
-Park&Ride - Warwick Farm,3,39,False,1,790,624100,0
-Park&Ride - Warwick Farm,3,40,False,1,770,592900,0
-Park&Ride - Warwick Farm,3,41,False,1,744,553536,0
-Park&Ride - Warwick Farm,3,42,False,1,725,525625,0
-Park&Ride - West Ryde,3,30,False,1,143,20449,0
-Park&Ride - West Ryde,3,31,False,1,141,19881,0
-Park&Ride - West Ryde,3,32,False,1,138,19044,0
-Park&Ride - West Ryde,3,33,False,1,133,17689,0
-Park&Ride - West Ryde,3,34,False,1,129,16641,0
-Park&Ride - West Ryde,3,35,False,1,125,15625,0
-Park&Ride - West Ryde,3,36,False,1,119,14161,0
-Park&Ride - West Ryde,3,37,False,1,112,12544,0
-Park&Ride - West Ryde,3,38,False,1,101,10201,0
-Park&Ride - West Ryde,3,39,False,1,90,8100,0
-Park&Ride - West Ryde,3,40,False,1,78,6084,0
-Park&Ride - West Ryde,3,41,False,1,70,4900,0
-Park&Ride - West Ryde,3,42,False,1,51,2601,0
+Park&Ride - Ashfield,3,30,False,1.0,205.0,42025.0,0.0
+Park&Ride - Ashfield,3,31,False,1.0,196.0,38416.0,0.0
+Park&Ride - Ashfield,3,32,False,1.0,188.0,35344.0,0.0
+Park&Ride - Ashfield,3,33,False,1.0,179.0,32041.0,0.0
+Park&Ride - Ashfield,3,34,False,1.0,176.0,30976.0,0.0
+Park&Ride - Ashfield,3,35,False,1.0,169.0,28561.0,0.0
+Park&Ride - Ashfield,3,36,False,1.0,157.0,24649.0,0.0
+Park&Ride - Ashfield,3,37,False,1.0,141.0,19881.0,0.0
+Park&Ride - Ashfield,3,38,False,1.0,128.0,16384.0,0.0
+Park&Ride - Ashfield,3,39,False,1.0,110.0,12100.0,0.0
+Park&Ride - Ashfield,3,40,False,1.0,97.0,9409.0,0.0
+Park&Ride - Ashfield,3,41,False,1.0,77.0,5929.0,0.0
+Park&Ride - Ashfield,3,42,False,1.0,48.0,2304.0,0.0
+Park&Ride - Bella Vista,3,30,False,1.0,755.0,570025.0,0.0
+Park&Ride - Bella Vista,3,31,False,1.0,748.0,559504.0,0.0
+Park&Ride - Bella Vista,3,32,False,1.0,733.0,537289.0,0.0
+Park&Ride - Bella Vista,3,33,False,1.0,717.0,514089.0,0.0
+Park&Ride - Bella Vista,3,34,False,1.0,703.0,494209.0,0.0
+Park&Ride - Bella Vista,3,35,False,1.0,693.0,480249.0,0.0
+Park&Ride - Bella Vista,3,36,False,1.0,680.0,462400.0,0.0
+Park&Ride - Bella Vista,3,37,False,1.0,671.0,450241.0,0.0
+Park&Ride - Bella Vista,3,38,False,1.0,655.0,429025.0,0.0
+Park&Ride - Bella Vista,3,39,False,1.0,632.0,399424.0,0.0
+Park&Ride - Bella Vista,3,40,False,1.0,606.0,367236.0,0.0
+Park&Ride - Bella Vista,3,41,False,1.0,569.0,323761.0,0.0
+Park&Ride - Bella Vista,3,42,False,1.0,529.0,279841.0,0.0
+Park&Ride - Beverly Hills,3,30,False,1.0,200.0,40000.0,0.0
+Park&Ride - Beverly Hills,3,31,False,1.0,199.0,39601.0,0.0
+Park&Ride - Beverly Hills,3,32,False,1.0,198.0,39204.0,0.0
+Park&Ride - Beverly Hills,3,33,False,1.0,196.0,38416.0,0.0
+Park&Ride - Beverly Hills,3,34,False,1.0,195.0,38025.0,0.0
+Park&Ride - Beverly Hills,3,35,False,1.0,195.0,38025.0,0.0
+Park&Ride - Beverly Hills,3,36,False,1.0,195.0,38025.0,0.0
+Park&Ride - Beverly Hills,3,37,False,1.0,195.0,38025.0,0.0
+Park&Ride - Beverly Hills,3,38,False,1.0,194.0,37636.0,0.0
+Park&Ride - Beverly Hills,3,39,False,1.0,191.0,36481.0,0.0
+Park&Ride - Beverly Hills,3,40,False,1.0,189.0,35721.0,0.0
+Park&Ride - Beverly Hills,3,41,False,1.0,187.0,34969.0,0.0
+Park&Ride - Beverly Hills,3,42,False,1.0,185.0,34225.0,0.0
+Park&Ride - Brookvale,3,30,False,1.0,239.0,57121.0,0.0
+Park&Ride - Brookvale,3,31,False,1.0,238.0,56644.0,0.0
+Park&Ride - Brookvale,3,32,False,1.0,235.0,55225.0,0.0
+Park&Ride - Brookvale,3,33,False,1.0,234.0,54756.0,0.0
+Park&Ride - Brookvale,3,34,False,1.0,232.0,53824.0,0.0
+Park&Ride - Brookvale,3,35,False,1.0,226.0,51076.0,0.0
+Park&Ride - Brookvale,3,36,False,1.0,219.0,47961.0,0.0
+Park&Ride - Brookvale,3,37,False,1.0,216.0,46656.0,0.0
+Park&Ride - Brookvale,3,38,False,1.0,208.0,43264.0,0.0
+Park&Ride - Brookvale,3,39,False,1.0,194.0,37636.0,0.0
+Park&Ride - Brookvale,3,40,False,1.0,175.0,30625.0,0.0
+Park&Ride - Brookvale,3,41,False,1.0,163.0,26569.0,0.0
+Park&Ride - Brookvale,3,42,False,1.0,141.0,19881.0,0.0
+Park&Ride - Campbelltown Farrow Rd (north),3,30,False,1.0,13.0,169.0,0.0
+Park&Ride - Campbelltown Farrow Rd (north),3,31,False,1.0,10.0,100.0,0.0
+Park&Ride - Campbelltown Farrow Rd (north),3,32,False,1.0,6.0,36.0,0.0
+Park&Ride - Campbelltown Farrow Rd (north),3,33,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,34,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,35,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,36,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,37,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,38,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,39,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,40,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,41,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Farrow Rd (north),3,42,False,1.0,0.0,0.0,1.0
+Park&Ride - Campbelltown Hurley St,3,30,False,1.0,78.0,6084.0,0.0
+Park&Ride - Campbelltown Hurley St,3,31,False,1.0,75.0,5625.0,0.0
+Park&Ride - Campbelltown Hurley St,3,32,False,1.0,66.0,4356.0,0.0
+Park&Ride - Campbelltown Hurley St,3,33,False,1.0,64.0,4096.0,0.0
+Park&Ride - Campbelltown Hurley St,3,34,False,1.0,62.0,3844.0,0.0
+Park&Ride - Campbelltown Hurley St,3,35,False,1.0,57.0,3249.0,0.0
+Park&Ride - Campbelltown Hurley St,3,36,False,1.0,54.0,2916.0,0.0
+Park&Ride - Campbelltown Hurley St,3,37,False,1.0,50.0,2500.0,0.0
+Park&Ride - Campbelltown Hurley St,3,38,False,1.0,41.0,1681.0,0.0
+Park&Ride - Campbelltown Hurley St,3,39,False,1.0,33.0,1089.0,0.0
+Park&Ride - Campbelltown Hurley St,3,40,False,1.0,28.0,784.0,0.0
+Park&Ride - Campbelltown Hurley St,3,41,False,1.0,25.0,625.0,0.0
+Park&Ride - Campbelltown Hurley St,3,42,False,1.0,23.0,529.0,0.0
+Park&Ride - Cherrybrook,3,30,False,1.0,354.0,125316.0,0.0
+Park&Ride - Cherrybrook,3,31,False,1.0,346.0,119716.0,0.0
+Park&Ride - Cherrybrook,3,32,False,1.0,336.0,112896.0,0.0
+Park&Ride - Cherrybrook,3,33,False,1.0,328.0,107584.0,0.0
+Park&Ride - Cherrybrook,3,34,False,1.0,311.0,96721.0,0.0
+Park&Ride - Cherrybrook,3,35,False,1.0,288.0,82944.0,0.0
+Park&Ride - Cherrybrook,3,36,False,1.0,251.0,63001.0,0.0
+Park&Ride - Cherrybrook,3,37,False,1.0,222.0,49284.0,0.0
+Park&Ride - Cherrybrook,3,38,False,1.0,167.0,27889.0,0.0
+Park&Ride - Cherrybrook,3,39,False,1.0,89.0,7921.0,0.0
+Park&Ride - Cherrybrook,3,40,False,1.0,13.0,169.0,0.0
+Park&Ride - Cherrybrook,3,41,False,1.0,0.0,0.0,1.0
+Park&Ride - Cherrybrook,3,42,False,1.0,0.0,0.0,1.0
+Park&Ride - Dee Why,3,30,False,1.0,120.0,14400.0,0.0
+Park&Ride - Dee Why,3,31,False,1.0,120.0,14400.0,0.0
+Park&Ride - Dee Why,3,32,False,1.0,120.0,14400.0,0.0
+Park&Ride - Dee Why,3,33,False,1.0,119.0,14161.0,0.0
+Park&Ride - Dee Why,3,34,False,1.0,118.0,13924.0,0.0
+Park&Ride - Dee Why,3,35,False,1.0,117.0,13689.0,0.0
+Park&Ride - Dee Why,3,36,False,1.0,116.0,13456.0,0.0
+Park&Ride - Dee Why,3,37,False,1.0,115.0,13225.0,0.0
+Park&Ride - Dee Why,3,38,False,1.0,113.0,12769.0,0.0
+Park&Ride - Dee Why,3,39,False,1.0,111.0,12321.0,0.0
+Park&Ride - Dee Why,3,40,False,1.0,106.0,11236.0,0.0
+Park&Ride - Dee Why,3,41,False,1.0,103.0,10609.0,0.0
+Park&Ride - Dee Why,3,42,False,1.0,98.0,9604.0,0.0
+Park&Ride - Edmondson Park (north),3,30,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,31,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,32,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,33,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,34,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,35,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,36,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,37,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,38,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,39,False,1.0,915.0,837225.0,0.0
+Park&Ride - Edmondson Park (north),3,40,False,1.0,914.0,835396.0,0.0
+Park&Ride - Edmondson Park (north),3,41,False,1.0,909.0,826281.0,0.0
+Park&Ride - Edmondson Park (north),3,42,False,1.0,908.0,824464.0,0.0
+Park&Ride - Edmondson Park (south),3,30,False,1.0,1343.0,1803649.0,0.0
+Park&Ride - Edmondson Park (south),3,31,False,1.0,1336.0,1784896.0,0.0
+Park&Ride - Edmondson Park (south),3,32,False,1.0,1320.0,1742400.0,0.0
+Park&Ride - Edmondson Park (south),3,33,False,1.0,1314.0,1726596.0,0.0
+Park&Ride - Edmondson Park (south),3,34,False,1.0,1308.0,1710864.0,0.0
+Park&Ride - Edmondson Park (south),3,35,False,1.0,1296.0,1679616.0,0.0
+Park&Ride - Edmondson Park (south),3,36,False,1.0,1280.0,1638400.0,0.0
+Park&Ride - Edmondson Park (south),3,37,False,1.0,1260.0,1587600.0,0.0
+Park&Ride - Edmondson Park (south),3,38,False,1.0,1227.0,1505529.0,0.0
+Park&Ride - Edmondson Park (south),3,39,False,1.0,1194.0,1425636.0,0.0
+Park&Ride - Edmondson Park (south),3,40,False,1.0,1164.0,1354896.0,0.0
+Park&Ride - Edmondson Park (south),3,41,False,1.0,1095.0,1199025.0,0.0
+Park&Ride - Edmondson Park (south),3,42,False,1.0,1027.0,1054729.0,0.0
+Park&Ride - Emu Plains,3,30,False,1.0,749.0,561001.0,0.0
+Park&Ride - Emu Plains,3,31,False,1.0,749.0,561001.0,0.0
+Park&Ride - Emu Plains,3,32,False,1.0,748.0,559504.0,0.0
+Park&Ride - Emu Plains,3,33,False,1.0,748.0,559504.0,0.0
+Park&Ride - Emu Plains,3,34,False,1.0,748.0,559504.0,0.0
+Park&Ride - Emu Plains,3,35,False,1.0,746.0,556516.0,0.0
+Park&Ride - Emu Plains,3,36,False,1.0,746.0,556516.0,0.0
+Park&Ride - Emu Plains,3,37,False,1.0,744.0,553536.0,0.0
+Park&Ride - Emu Plains,3,38,False,1.0,743.0,552049.0,0.0
+Park&Ride - Emu Plains,3,39,False,1.0,742.0,550564.0,0.0
+Park&Ride - Emu Plains,3,40,False,1.0,738.0,544644.0,0.0
+Park&Ride - Emu Plains,3,41,False,1.0,736.0,541696.0,0.0
+Park&Ride - Emu Plains,3,42,False,1.0,732.0,535824.0,0.0
+Park&Ride - Gordon Henry St (north),3,30,False,1.0,210.0,44100.0,0.0
+Park&Ride - Gordon Henry St (north),3,31,False,1.0,208.0,43264.0,0.0
+Park&Ride - Gordon Henry St (north),3,32,False,1.0,207.0,42849.0,0.0
+Park&Ride - Gordon Henry St (north),3,33,False,1.0,206.0,42436.0,0.0
+Park&Ride - Gordon Henry St (north),3,34,False,1.0,203.0,41209.0,0.0
+Park&Ride - Gordon Henry St (north),3,35,False,1.0,202.0,40804.0,0.0
+Park&Ride - Gordon Henry St (north),3,36,False,1.0,199.0,39601.0,0.0
+Park&Ride - Gordon Henry St (north),3,37,False,1.0,192.0,36864.0,0.0
+Park&Ride - Gordon Henry St (north),3,38,False,1.0,185.0,34225.0,0.0
+Park&Ride - Gordon Henry St (north),3,39,False,1.0,177.0,31329.0,0.0
+Park&Ride - Gordon Henry St (north),3,40,False,1.0,163.0,26569.0,0.0
+Park&Ride - Gordon Henry St (north),3,41,False,1.0,140.0,19600.0,0.0
+Park&Ride - Gordon Henry St (north),3,42,False,1.0,103.0,10609.0,0.0
+Park&Ride - Gosford,3,30,False,1.0,997.0,994009.0,0.0
+Park&Ride - Gosford,3,31,False,1.0,993.0,986049.0,0.0
+Park&Ride - Gosford,3,32,False,1.0,980.0,960400.0,0.0
+Park&Ride - Gosford,3,33,False,1.0,942.0,887364.0,0.0
+Park&Ride - Gosford,3,34,False,1.0,922.0,850084.0,0.0
+Park&Ride - Gosford,3,35,False,1.0,907.0,822649.0,0.0
+Park&Ride - Gosford,3,36,False,1.0,841.0,707281.0,0.0
+Park&Ride - Gosford,3,37,False,1.0,787.0,619369.0,0.0
+Park&Ride - Gosford,3,38,False,1.0,722.0,521284.0,0.0
+Park&Ride - Gosford,3,39,False,1.0,650.0,422500.0,0.0
+Park&Ride - Gosford,3,40,False,1.0,573.0,328329.0,0.0
+Park&Ride - Gosford,3,41,False,1.0,471.0,221841.0,0.0
+Park&Ride - Gosford,3,42,False,1.0,398.0,158404.0,0.0
+Park&Ride - Hills Showground,3,30,False,1.0,567.0,321489.0,0.0
+Park&Ride - Hills Showground,3,31,False,1.0,563.0,316969.0,0.0
+Park&Ride - Hills Showground,3,32,False,1.0,551.0,303601.0,0.0
+Park&Ride - Hills Showground,3,33,False,1.0,541.0,292681.0,0.0
+Park&Ride - Hills Showground,3,34,False,1.0,526.0,276676.0,0.0
+Park&Ride - Hills Showground,3,35,False,1.0,509.0,259081.0,0.0
+Park&Ride - Hills Showground,3,36,False,1.0,495.0,245025.0,0.0
+Park&Ride - Hills Showground,3,37,False,1.0,481.0,231361.0,0.0
+Park&Ride - Hills Showground,3,38,False,1.0,441.0,194481.0,0.0
+Park&Ride - Hills Showground,3,39,False,1.0,389.0,151321.0,0.0
+Park&Ride - Hills Showground,3,40,False,1.0,316.0,99856.0,0.0
+Park&Ride - Hills Showground,3,41,False,1.0,235.0,55225.0,0.0
+Park&Ride - Hills Showground,3,42,False,1.0,137.0,18769.0,0.0
+Park&Ride - Hornsby,3,30,False,1.0,139.0,19321.0,0.0
+Park&Ride - Hornsby,3,31,False,1.0,138.0,19044.0,0.0
+Park&Ride - Hornsby,3,32,False,1.0,137.0,18769.0,0.0
+Park&Ride - Hornsby,3,33,False,1.0,132.0,17424.0,0.0
+Park&Ride - Hornsby,3,34,False,1.0,129.0,16641.0,0.0
+Park&Ride - Hornsby,3,35,False,1.0,128.0,16384.0,0.0
+Park&Ride - Hornsby,3,36,False,1.0,122.0,14884.0,0.0
+Park&Ride - Hornsby,3,37,False,1.0,119.0,14161.0,0.0
+Park&Ride - Hornsby,3,38,False,1.0,116.0,13456.0,0.0
+Park&Ride - Hornsby,3,39,False,1.0,109.0,11881.0,0.0
+Park&Ride - Hornsby,3,40,False,1.0,102.0,10404.0,0.0
+Park&Ride - Hornsby,3,41,False,1.0,86.0,7396.0,0.0
+Park&Ride - Hornsby,3,42,False,1.0,73.0,5329.0,0.0
+Park&Ride - Kellyville (north),3,30,False,1.0,345.0,119025.0,0.0
+Park&Ride - Kellyville (north),3,31,False,1.0,345.0,119025.0,0.0
+Park&Ride - Kellyville (north),3,32,False,1.0,342.0,116964.0,0.0
+Park&Ride - Kellyville (north),3,33,False,1.0,341.0,116281.0,0.0
+Park&Ride - Kellyville (north),3,34,False,1.0,341.0,116281.0,0.0
+Park&Ride - Kellyville (north),3,35,False,1.0,341.0,116281.0,0.0
+Park&Ride - Kellyville (north),3,36,False,1.0,339.0,114921.0,0.0
+Park&Ride - Kellyville (north),3,37,False,1.0,336.0,112896.0,0.0
+Park&Ride - Kellyville (north),3,38,False,1.0,329.0,108241.0,0.0
+Park&Ride - Kellyville (north),3,39,False,1.0,326.0,106276.0,0.0
+Park&Ride - Kellyville (north),3,40,False,1.0,318.0,101124.0,0.0
+Park&Ride - Kellyville (north),3,41,False,1.0,309.0,95481.0,0.0
+Park&Ride - Kellyville (north),3,42,False,1.0,294.0,86436.0,0.0
+Park&Ride - Kellyville (south),3,30,False,1.0,929.0,863041.0,0.0
+Park&Ride - Kellyville (south),3,31,False,1.0,920.0,846400.0,0.0
+Park&Ride - Kellyville (south),3,32,False,1.0,912.0,831744.0,0.0
+Park&Ride - Kellyville (south),3,33,False,1.0,902.0,813604.0,0.0
+Park&Ride - Kellyville (south),3,34,False,1.0,874.0,763876.0,0.0
+Park&Ride - Kellyville (south),3,35,False,1.0,858.0,736164.0,0.0
+Park&Ride - Kellyville (south),3,36,False,1.0,834.0,695556.0,0.0
+Park&Ride - Kellyville (south),3,37,False,1.0,811.0,657721.0,0.0
+Park&Ride - Kellyville (south),3,38,False,1.0,784.0,614656.0,0.0
+Park&Ride - Kellyville (south),3,39,False,1.0,742.0,550564.0,0.0
+Park&Ride - Kellyville (south),3,40,False,1.0,686.0,470596.0,0.0
+Park&Ride - Kellyville (south),3,41,False,1.0,611.0,373321.0,0.0
+Park&Ride - Kellyville (south),3,42,False,1.0,522.0,272484.0,0.0
+Park&Ride - Kiama,3,30,False,1.0,41.0,1681.0,0.0
+Park&Ride - Kiama,3,31,False,1.0,41.0,1681.0,0.0
+Park&Ride - Kiama,3,32,False,1.0,41.0,1681.0,0.0
+Park&Ride - Kiama,3,33,False,1.0,40.0,1600.0,0.0
+Park&Ride - Kiama,3,34,False,1.0,40.0,1600.0,0.0
+Park&Ride - Kiama,3,35,False,1.0,40.0,1600.0,0.0
+Park&Ride - Kiama,3,36,False,1.0,40.0,1600.0,0.0
+Park&Ride - Kiama,3,37,False,1.0,39.0,1521.0,0.0
+Park&Ride - Kiama,3,38,False,1.0,38.0,1444.0,0.0
+Park&Ride - Kiama,3,39,False,1.0,37.0,1369.0,0.0
+Park&Ride - Kiama,3,40,False,1.0,37.0,1369.0,0.0
+Park&Ride - Kiama,3,41,False,1.0,36.0,1296.0,0.0
+Park&Ride - Kiama,3,42,False,1.0,35.0,1225.0,0.0
+Park&Ride - Kogarah,3,30,False,1.0,250.0,62500.0,0.0
+Park&Ride - Kogarah,3,31,False,1.0,245.0,60025.0,0.0
+Park&Ride - Kogarah,3,32,False,1.0,236.0,55696.0,0.0
+Park&Ride - Kogarah,3,33,False,1.0,226.0,51076.0,0.0
+Park&Ride - Kogarah,3,34,False,1.0,221.0,48841.0,0.0
+Park&Ride - Kogarah,3,35,False,1.0,204.0,41616.0,0.0
+Park&Ride - Kogarah,3,36,False,1.0,194.0,37636.0,0.0
+Park&Ride - Kogarah,3,37,False,1.0,188.0,35344.0,0.0
+Park&Ride - Kogarah,3,38,False,1.0,177.0,31329.0,0.0
+Park&Ride - Kogarah,3,39,False,1.0,167.0,27889.0,0.0
+Park&Ride - Kogarah,3,40,False,1.0,154.0,23716.0,0.0
+Park&Ride - Kogarah,3,41,False,1.0,142.0,20164.0,0.0
+Park&Ride - Kogarah,3,42,False,1.0,121.0,14641.0,0.0
+Park&Ride - Leppington,3,30,False,1.0,1627.0,2647129.0,0.0
+Park&Ride - Leppington,3,31,False,1.0,1620.0,2624400.0,0.0
+Park&Ride - Leppington,3,32,False,1.0,1607.0,2582449.0,0.0
+Park&Ride - Leppington,3,33,False,1.0,1588.0,2521744.0,0.0
+Park&Ride - Leppington,3,34,False,1.0,1561.0,2436721.0,0.0
+Park&Ride - Leppington,3,35,False,1.0,1541.0,2374681.0,0.0
+Park&Ride - Leppington,3,36,False,1.0,1493.0,2229049.0,0.0
+Park&Ride - Leppington,3,37,False,1.0,1453.0,2111209.0,0.0
+Park&Ride - Leppington,3,38,False,1.0,1414.0,1999396.0,0.0
+Park&Ride - Leppington,3,39,False,1.0,1345.0,1809025.0,0.0
+Park&Ride - Leppington,3,40,False,1.0,1275.0,1625625.0,0.0
+Park&Ride - Leppington,3,41,False,1.0,1211.0,1466521.0,0.0
+Park&Ride - Leppington,3,42,False,1.0,1123.0,1261129.0,0.0
+Park&Ride - Lindfield Village Green,3,30,False,1.0,91.0,8281.0,0.0
+Park&Ride - Lindfield Village Green,3,31,False,1.0,91.0,8281.0,0.0
+Park&Ride - Lindfield Village Green,3,32,False,1.0,91.0,8281.0,0.0
+Park&Ride - Lindfield Village Green,3,33,False,1.0,89.0,7921.0,0.0
+Park&Ride - Lindfield Village Green,3,34,False,1.0,89.0,7921.0,0.0
+Park&Ride - Lindfield Village Green,3,35,False,1.0,86.0,7396.0,0.0
+Park&Ride - Lindfield Village Green,3,36,False,1.0,86.0,7396.0,0.0
+Park&Ride - Lindfield Village Green,3,37,False,1.0,86.0,7396.0,0.0
+Park&Ride - Lindfield Village Green,3,38,False,1.0,85.0,7225.0,0.0
+Park&Ride - Lindfield Village Green,3,39,False,1.0,82.0,6724.0,0.0
+Park&Ride - Lindfield Village Green,3,40,False,1.0,80.0,6400.0,0.0
+Park&Ride - Lindfield Village Green,3,41,False,1.0,75.0,5625.0,0.0
+Park&Ride - Lindfield Village Green,3,42,False,1.0,74.0,5476.0,0.0
+Park&Ride - Manly Vale,3,30,False,1.0,139.0,19321.0,0.0
+Park&Ride - Manly Vale,3,31,False,1.0,138.0,19044.0,0.0
+Park&Ride - Manly Vale,3,32,False,1.0,135.0,18225.0,0.0
+Park&Ride - Manly Vale,3,33,False,1.0,132.0,17424.0,0.0
+Park&Ride - Manly Vale,3,34,False,1.0,128.0,16384.0,0.0
+Park&Ride - Manly Vale,3,35,False,1.0,124.0,15376.0,0.0
+Park&Ride - Manly Vale,3,36,False,1.0,120.0,14400.0,0.0
+Park&Ride - Manly Vale,3,37,False,1.0,115.0,13225.0,0.0
+Park&Ride - Manly Vale,3,38,False,1.0,110.0,12100.0,0.0
+Park&Ride - Manly Vale,3,39,False,1.0,108.0,11664.0,0.0
+Park&Ride - Manly Vale,3,40,False,1.0,99.0,9801.0,0.0
+Park&Ride - Manly Vale,3,41,False,1.0,92.0,8464.0,0.0
+Park&Ride - Manly Vale,3,42,False,1.0,79.0,6241.0,0.0
+Park&Ride - Mona Vale,3,30,False,1.0,68.0,4624.0,0.0
+Park&Ride - Mona Vale,3,31,False,1.0,66.0,4356.0,0.0
+Park&Ride - Mona Vale,3,32,False,1.0,64.0,4096.0,0.0
+Park&Ride - Mona Vale,3,33,False,1.0,64.0,4096.0,0.0
+Park&Ride - Mona Vale,3,34,False,1.0,63.0,3969.0,0.0
+Park&Ride - Mona Vale,3,35,False,1.0,62.0,3844.0,0.0
+Park&Ride - Mona Vale,3,36,False,1.0,60.0,3600.0,0.0
+Park&Ride - Mona Vale,3,37,False,1.0,58.0,3364.0,0.0
+Park&Ride - Mona Vale,3,38,False,1.0,50.0,2500.0,0.0
+Park&Ride - Mona Vale,3,39,False,1.0,44.0,1936.0,0.0
+Park&Ride - Mona Vale,3,40,False,1.0,35.0,1225.0,0.0
+Park&Ride - Mona Vale,3,41,False,1.0,25.0,625.0,0.0
+Park&Ride - Mona Vale,3,42,False,1.0,9.0,81.0,0.0
+Park&Ride - Narrabeen,3,30,False,1.0,42.0,1764.0,0.0
+Park&Ride - Narrabeen,3,31,False,1.0,42.0,1764.0,0.0
+Park&Ride - Narrabeen,3,32,False,1.0,41.0,1681.0,0.0
+Park&Ride - Narrabeen,3,33,False,1.0,40.0,1600.0,0.0
+Park&Ride - Narrabeen,3,34,False,1.0,39.0,1521.0,0.0
+Park&Ride - Narrabeen,3,35,False,1.0,39.0,1521.0,0.0
+Park&Ride - Narrabeen,3,36,False,1.0,38.0,1444.0,0.0
+Park&Ride - Narrabeen,3,37,False,1.0,32.0,1024.0,0.0
+Park&Ride - Narrabeen,3,38,False,1.0,31.0,961.0,0.0
+Park&Ride - Narrabeen,3,39,False,1.0,28.0,784.0,0.0
+Park&Ride - Narrabeen,3,40,False,1.0,24.0,576.0,0.0
+Park&Ride - Narrabeen,3,41,False,1.0,22.0,484.0,0.0
+Park&Ride - Narrabeen,3,42,False,1.0,16.0,256.0,0.0
+Park&Ride - North Rocks,3,30,False,1.0,139.0,19321.0,0.0
+Park&Ride - North Rocks,3,31,False,1.0,139.0,19321.0,0.0
+Park&Ride - North Rocks,3,32,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,33,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,34,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,35,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,36,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,37,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,38,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,39,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,40,False,1.0,138.0,19044.0,0.0
+Park&Ride - North Rocks,3,41,False,1.0,137.0,18769.0,0.0
+Park&Ride - North Rocks,3,42,False,1.0,133.0,17689.0,0.0
+Park&Ride - Penrith (at-grade),3,30,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,31,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,32,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,33,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,34,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,35,False,1.0,229.0,52441.0,0.0
+Park&Ride - Penrith (at-grade),3,36,False,1.0,228.0,51984.0,0.0
+Park&Ride - Penrith (at-grade),3,37,False,1.0,227.0,51529.0,0.0
+Park&Ride - Penrith (at-grade),3,38,False,1.0,227.0,51529.0,0.0
+Park&Ride - Penrith (at-grade),3,39,False,1.0,225.0,50625.0,0.0
+Park&Ride - Penrith (at-grade),3,40,False,1.0,224.0,50176.0,0.0
+Park&Ride - Penrith (at-grade),3,41,False,1.0,221.0,48841.0,0.0
+Park&Ride - Penrith (at-grade),3,42,False,1.0,219.0,47961.0,0.0
+Park&Ride - Penrith (multi-level),3,30,False,1.0,1087.0,1181569.0,0.0
+Park&Ride - Penrith (multi-level),3,31,False,1.0,1077.0,1159929.0,0.0
+Park&Ride - Penrith (multi-level),3,32,False,1.0,1062.0,1127844.0,0.0
+Park&Ride - Penrith (multi-level),3,33,False,1.0,1054.0,1110916.0,0.0
+Park&Ride - Penrith (multi-level),3,34,False,1.0,1042.0,1085764.0,0.0
+Park&Ride - Penrith (multi-level),3,35,False,1.0,1021.0,1042441.0,0.0
+Park&Ride - Penrith (multi-level),3,36,False,1.0,1009.0,1018081.0,0.0
+Park&Ride - Penrith (multi-level),3,37,False,1.0,995.0,990025.0,0.0
+Park&Ride - Penrith (multi-level),3,38,False,1.0,964.0,929296.0,0.0
+Park&Ride - Penrith (multi-level),3,39,False,1.0,930.0,864900.0,0.0
+Park&Ride - Penrith (multi-level),3,40,False,1.0,896.0,802816.0,0.0
+Park&Ride - Penrith (multi-level),3,41,False,1.0,857.0,734449.0,0.0
+Park&Ride - Penrith (multi-level),3,42,False,1.0,818.0,669124.0,0.0
+Park&Ride - Revesby,3,30,False,1.0,914.0,835396.0,0.0
+Park&Ride - Revesby,3,31,False,1.0,910.0,828100.0,0.0
+Park&Ride - Revesby,3,32,False,1.0,903.0,815409.0,0.0
+Park&Ride - Revesby,3,33,False,1.0,895.0,801025.0,0.0
+Park&Ride - Revesby,3,34,False,1.0,885.0,783225.0,0.0
+Park&Ride - Revesby,3,35,False,1.0,880.0,774400.0,0.0
+Park&Ride - Revesby,3,36,False,1.0,873.0,762129.0,0.0
+Park&Ride - Revesby,3,37,False,1.0,857.0,734449.0,0.0
+Park&Ride - Revesby,3,38,False,1.0,841.0,707281.0,0.0
+Park&Ride - Revesby,3,39,False,1.0,827.0,683929.0,0.0
+Park&Ride - Revesby,3,40,False,1.0,813.0,660969.0,0.0
+Park&Ride - Revesby,3,41,False,1.0,789.0,622521.0,0.0
+Park&Ride - Revesby,3,42,False,1.0,744.0,553536.0,0.0
+Park&Ride - Riverwood,3,30,False,1.0,109.0,11881.0,0.0
+Park&Ride - Riverwood,3,31,False,1.0,109.0,11881.0,0.0
+Park&Ride - Riverwood,3,32,False,1.0,109.0,11881.0,0.0
+Park&Ride - Riverwood,3,33,False,1.0,109.0,11881.0,0.0
+Park&Ride - Riverwood,3,34,False,1.0,108.0,11664.0,0.0
+Park&Ride - Riverwood,3,35,False,1.0,108.0,11664.0,0.0
+Park&Ride - Riverwood,3,36,False,1.0,108.0,11664.0,0.0
+Park&Ride - Riverwood,3,37,False,1.0,108.0,11664.0,0.0
+Park&Ride - Riverwood,3,38,False,1.0,107.0,11449.0,0.0
+Park&Ride - Riverwood,3,39,False,1.0,104.0,10816.0,0.0
+Park&Ride - Riverwood,3,40,False,1.0,103.0,10609.0,0.0
+Park&Ride - Riverwood,3,41,False,1.0,97.0,9409.0,0.0
+Park&Ride - Riverwood,3,42,False,1.0,95.0,9025.0,0.0
+Park&Ride - Schofields,3,30,False,1.0,691.0,477481.0,0.0
+Park&Ride - Schofields,3,31,False,1.0,686.0,470596.0,0.0
+Park&Ride - Schofields,3,32,False,1.0,685.0,469225.0,0.0
+Park&Ride - Schofields,3,33,False,1.0,684.0,467856.0,0.0
+Park&Ride - Schofields,3,34,False,1.0,681.0,463761.0,0.0
+Park&Ride - Schofields,3,35,False,1.0,677.0,458329.0,0.0
+Park&Ride - Schofields,3,36,False,1.0,670.0,448900.0,0.0
+Park&Ride - Schofields,3,37,False,1.0,661.0,436921.0,0.0
+Park&Ride - Schofields,3,38,False,1.0,660.0,435600.0,0.0
+Park&Ride - Schofields,3,39,False,1.0,647.0,418609.0,0.0
+Park&Ride - Schofields,3,40,False,1.0,632.0,399424.0,0.0
+Park&Ride - Schofields,3,41,False,1.0,602.0,362404.0,0.0
+Park&Ride - Schofields,3,42,False,1.0,561.0,314721.0,0.0
+Park&Ride - Seven Hills,3,30,False,1.0,1590.0,2528100.0,0.0
+Park&Ride - Seven Hills,3,31,False,1.0,1584.0,2509056.0,0.0
+Park&Ride - Seven Hills,3,32,False,1.0,1572.0,2471184.0,0.0
+Park&Ride - Seven Hills,3,33,False,1.0,1568.0,2458624.0,0.0
+Park&Ride - Seven Hills,3,34,False,1.0,1563.0,2442969.0,0.0
+Park&Ride - Seven Hills,3,35,False,1.0,1556.0,2421136.0,0.0
+Park&Ride - Seven Hills,3,36,False,1.0,1550.0,2402500.0,0.0
+Park&Ride - Seven Hills,3,37,False,1.0,1542.0,2377764.0,0.0
+Park&Ride - Seven Hills,3,38,False,1.0,1531.0,2343961.0,0.0
+Park&Ride - Seven Hills,3,39,False,1.0,1514.0,2292196.0,0.0
+Park&Ride - Seven Hills,3,40,False,1.0,1498.0,2244004.0,0.0
+Park&Ride - Seven Hills,3,41,False,1.0,1483.0,2199289.0,0.0
+Park&Ride - Seven Hills,3,42,False,1.0,1448.0,2096704.0,0.0
+Park&Ride - St Marys,3,30,False,1.0,644.0,414736.0,0.0
+Park&Ride - St Marys,3,31,False,1.0,641.0,410881.0,0.0
+Park&Ride - St Marys,3,32,False,1.0,634.0,401956.0,0.0
+Park&Ride - St Marys,3,33,False,1.0,629.0,395641.0,0.0
+Park&Ride - St Marys,3,34,False,1.0,617.0,380689.0,0.0
+Park&Ride - St Marys,3,35,False,1.0,609.0,370881.0,0.0
+Park&Ride - St Marys,3,36,False,1.0,598.0,357604.0,0.0
+Park&Ride - St Marys,3,37,False,1.0,583.0,339889.0,0.0
+Park&Ride - St Marys,3,38,False,1.0,570.0,324900.0,0.0
+Park&Ride - St Marys,3,39,False,1.0,561.0,314721.0,0.0
+Park&Ride - St Marys,3,40,False,1.0,549.0,301401.0,0.0
+Park&Ride - St Marys,3,41,False,1.0,522.0,272484.0,0.0
+Park&Ride - St Marys,3,42,False,1.0,493.0,243049.0,0.0
+Park&Ride - Sutherland,3,30,False,1.0,333.0,110889.0,0.0
+Park&Ride - Sutherland,3,31,False,1.0,325.0,105625.0,0.0
+Park&Ride - Sutherland,3,32,False,1.0,317.0,100489.0,0.0
+Park&Ride - Sutherland,3,33,False,1.0,302.0,91204.0,0.0
+Park&Ride - Sutherland,3,34,False,1.0,290.0,84100.0,0.0
+Park&Ride - Sutherland,3,35,False,1.0,283.0,80089.0,0.0
+Park&Ride - Sutherland,3,36,False,1.0,269.0,72361.0,0.0
+Park&Ride - Sutherland,3,37,False,1.0,252.0,63504.0,0.0
+Park&Ride - Sutherland,3,38,False,1.0,241.0,58081.0,0.0
+Park&Ride - Sutherland,3,39,False,1.0,203.0,41209.0,0.0
+Park&Ride - Sutherland,3,40,False,1.0,192.0,36864.0,0.0
+Park&Ride - Sutherland,3,41,False,1.0,170.0,28900.0,0.0
+Park&Ride - Sutherland,3,42,False,1.0,134.0,17956.0,0.0
+Park&Ride - Tallawong P1,3,30,False,1.0,42.0,1764.0,0.0
+Park&Ride - Tallawong P1,3,31,False,1.0,30.0,900.0,0.0
+Park&Ride - Tallawong P1,3,32,False,1.0,22.0,484.0,0.0
+Park&Ride - Tallawong P1,3,33,False,1.0,19.0,361.0,0.0
+Park&Ride - Tallawong P1,3,34,False,1.0,18.0,324.0,0.0
+Park&Ride - Tallawong P1,3,35,False,1.0,18.0,324.0,0.0
+Park&Ride - Tallawong P1,3,36,False,1.0,17.0,289.0,0.0
+Park&Ride - Tallawong P1,3,37,False,1.0,19.0,361.0,0.0
+Park&Ride - Tallawong P1,3,38,False,1.0,22.0,484.0,0.0
+Park&Ride - Tallawong P1,3,39,False,1.0,16.0,256.0,0.0
+Park&Ride - Tallawong P1,3,40,False,1.0,15.0,225.0,0.0
+Park&Ride - Tallawong P1,3,41,False,1.0,11.0,121.0,0.0
+Park&Ride - Tallawong P1,3,42,False,1.0,8.0,64.0,0.0
+Park&Ride - Tallawong P2,3,30,False,1.0,415.0,172225.0,0.0
+Park&Ride - Tallawong P2,3,31,False,1.0,400.0,160000.0,0.0
+Park&Ride - Tallawong P2,3,32,False,1.0,378.0,142884.0,0.0
+Park&Ride - Tallawong P2,3,33,False,1.0,355.0,126025.0,0.0
+Park&Ride - Tallawong P2,3,34,False,1.0,321.0,103041.0,0.0
+Park&Ride - Tallawong P2,3,35,False,1.0,289.0,83521.0,0.0
+Park&Ride - Tallawong P2,3,36,False,1.0,236.0,55696.0,0.0
+Park&Ride - Tallawong P2,3,37,False,1.0,189.0,35721.0,0.0
+Park&Ride - Tallawong P2,3,38,False,1.0,132.0,17424.0,0.0
+Park&Ride - Tallawong P2,3,39,False,1.0,71.0,5041.0,0.0
+Park&Ride - Tallawong P2,3,40,False,1.0,32.0,1024.0,0.0
+Park&Ride - Tallawong P2,3,41,False,1.0,9.0,81.0,0.0
+Park&Ride - Tallawong P2,3,42,False,1.0,9.0,81.0,0.0
+Park&Ride - Tallawong P3,3,30,False,1.0,396.0,156816.0,0.0
+Park&Ride - Tallawong P3,3,31,False,1.0,396.0,156816.0,0.0
+Park&Ride - Tallawong P3,3,32,False,1.0,396.0,156816.0,0.0
+Park&Ride - Tallawong P3,3,33,False,1.0,395.0,156025.0,0.0
+Park&Ride - Tallawong P3,3,34,False,1.0,394.0,155236.0,0.0
+Park&Ride - Tallawong P3,3,35,False,1.0,391.0,152881.0,0.0
+Park&Ride - Tallawong P3,3,36,False,1.0,387.0,149769.0,0.0
+Park&Ride - Tallawong P3,3,37,False,1.0,378.0,142884.0,0.0
+Park&Ride - Tallawong P3,3,38,False,1.0,358.0,128164.0,0.0
+Park&Ride - Tallawong P3,3,39,False,1.0,331.0,109561.0,0.0
+Park&Ride - Tallawong P3,3,40,False,1.0,265.0,70225.0,0.0
+Park&Ride - Tallawong P3,3,41,False,1.0,169.0,28561.0,0.0
+Park&Ride - Tallawong P3,3,42,False,1.0,60.0,3600.0,0.0
+Park&Ride - Warriewood,3,30,False,1.0,232.0,53824.0,0.0
+Park&Ride - Warriewood,3,31,False,1.0,231.0,53361.0,0.0
+Park&Ride - Warriewood,3,32,False,1.0,230.0,52900.0,0.0
+Park&Ride - Warriewood,3,33,False,1.0,230.0,52900.0,0.0
+Park&Ride - Warriewood,3,34,False,1.0,230.0,52900.0,0.0
+Park&Ride - Warriewood,3,35,False,1.0,230.0,52900.0,0.0
+Park&Ride - Warriewood,3,36,False,1.0,227.0,51529.0,0.0
+Park&Ride - Warriewood,3,37,False,1.0,226.0,51076.0,0.0
+Park&Ride - Warriewood,3,38,False,1.0,223.0,49729.0,0.0
+Park&Ride - Warriewood,3,39,False,1.0,217.0,47089.0,0.0
+Park&Ride - Warriewood,3,40,False,1.0,207.0,42849.0,0.0
+Park&Ride - Warriewood,3,41,False,1.0,201.0,40401.0,0.0
+Park&Ride - Warriewood,3,42,False,1.0,196.0,38416.0,0.0
+Park&Ride - Warwick Farm,3,30,False,1.0,872.0,760384.0,0.0
+Park&Ride - Warwick Farm,3,31,False,1.0,867.0,751689.0,0.0
+Park&Ride - Warwick Farm,3,32,False,1.0,856.0,732736.0,0.0
+Park&Ride - Warwick Farm,3,33,False,1.0,853.0,727609.0,0.0
+Park&Ride - Warwick Farm,3,34,False,1.0,842.0,708964.0,0.0
+Park&Ride - Warwick Farm,3,35,False,1.0,838.0,702244.0,0.0
+Park&Ride - Warwick Farm,3,36,False,1.0,836.0,698896.0,0.0
+Park&Ride - Warwick Farm,3,37,False,1.0,827.0,683929.0,0.0
+Park&Ride - Warwick Farm,3,38,False,1.0,807.0,651249.0,0.0
+Park&Ride - Warwick Farm,3,39,False,1.0,790.0,624100.0,0.0
+Park&Ride - Warwick Farm,3,40,False,1.0,770.0,592900.0,0.0
+Park&Ride - Warwick Farm,3,41,False,1.0,744.0,553536.0,0.0
+Park&Ride - Warwick Farm,3,42,False,1.0,725.0,525625.0,0.0
+Park&Ride - West Ryde,3,30,False,1.0,143.0,20449.0,0.0
+Park&Ride - West Ryde,3,31,False,1.0,141.0,19881.0,0.0
+Park&Ride - West Ryde,3,32,False,1.0,138.0,19044.0,0.0
+Park&Ride - West Ryde,3,33,False,1.0,133.0,17689.0,0.0
+Park&Ride - West Ryde,3,34,False,1.0,129.0,16641.0,0.0
+Park&Ride - West Ryde,3,35,False,1.0,125.0,15625.0,0.0
+Park&Ride - West Ryde,3,36,False,1.0,119.0,14161.0,0.0
+Park&Ride - West Ryde,3,37,False,1.0,112.0,12544.0,0.0
+Park&Ride - West Ryde,3,38,False,1.0,101.0,10201.0,0.0
+Park&Ride - West Ryde,3,39,False,1.0,90.0,8100.0,0.0
+Park&Ride - West Ryde,3,40,False,1.0,78.0,6084.0,0.0
+Park&Ride - West Ryde,3,41,False,1.0,70.0,4900.0,0.0
+Park&Ride - West Ryde,3,42,False,1.0,51.0,2601.0,0.0

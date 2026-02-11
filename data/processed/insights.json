@@ -1,8 +1,8 @@
 [
   {
     "facility": "Ashfield",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -131,8 +131,8 @@
   },
   {
     "facility": "Bella Vista",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -261,8 +261,8 @@
   },
   {
     "facility": "Beverly Hills",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -391,8 +391,8 @@
   },
   {
     "facility": "Brookvale",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -521,8 +521,8 @@
   },
   {
     "facility": "Campbelltown Farrow Rd (north)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "5:30 AM",
@@ -651,8 +651,8 @@
   },
   {
     "facility": "Campbelltown Hurley St",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -781,8 +781,8 @@
   },
   {
     "facility": "Cherrybrook",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "6:50 AM",
@@ -911,8 +911,8 @@
   },
   {
     "facility": "Dee Why",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1041,8 +1041,8 @@
   },
   {
     "facility": "Edmondson Park (north)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1171,8 +1171,8 @@
   },
   {
     "facility": "Edmondson Park (south)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1301,8 +1301,8 @@
   },
   {
     "facility": "Emu Plains",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1431,8 +1431,8 @@
   },
   {
     "facility": "Gordon Henry St (north)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1561,8 +1561,8 @@
   },
   {
     "facility": "Gosford",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1691,8 +1691,8 @@
   },
   {
     "facility": "Hills Showground",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1821,8 +1821,8 @@
   },
   {
     "facility": "Hornsby",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -1951,8 +1951,8 @@
   },
   {
     "facility": "Kellyville (north)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2081,8 +2081,8 @@
   },
   {
     "facility": "Kellyville (south)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2211,8 +2211,8 @@
   },
   {
     "facility": "Kiama",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2341,8 +2341,8 @@
   },
   {
     "facility": "Kogarah",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2471,8 +2471,8 @@
   },
   {
     "facility": "Leppington",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2601,8 +2601,8 @@
   },
   {
     "facility": "Lindfield Village Green",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2731,8 +2731,8 @@
   },
   {
     "facility": "Manly Vale",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2861,8 +2861,8 @@
   },
   {
     "facility": "Mona Vale",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -2991,8 +2991,8 @@
   },
   {
     "facility": "Narrabeen",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3121,8 +3121,8 @@
   },
   {
     "facility": "North Rocks",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3251,8 +3251,8 @@
   },
   {
     "facility": "Penrith (at-grade)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3381,8 +3381,8 @@
   },
   {
     "facility": "Penrith (multi-level)",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3511,8 +3511,8 @@
   },
   {
     "facility": "Revesby",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3641,8 +3641,8 @@
   },
   {
     "facility": "Riverwood",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3771,8 +3771,8 @@
   },
   {
     "facility": "Schofields",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -3901,8 +3901,8 @@
   },
   {
     "facility": "Seven Hills",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4031,8 +4031,8 @@
   },
   {
     "facility": "St Marys",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4161,8 +4161,8 @@
   },
   {
     "facility": "Sutherland",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4291,8 +4291,8 @@
   },
   {
     "facility": "Tallawong P1",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4421,8 +4421,8 @@
   },
   {
     "facility": "Tallawong P2",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4551,8 +4551,8 @@
   },
   {
     "facility": "Tallawong P3",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4681,8 +4681,8 @@
   },
   {
     "facility": "Warriewood",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4811,8 +4811,8 @@
   },
   {
     "facility": "Warwick Farm",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
@@ -4941,8 +4941,8 @@
   },
   {
     "facility": "West Ryde",
-    "day": "Wednesday",
-    "day_priority": 2,
+    "day": "Thursday",
+    "day_priority": 3,
     "status": "Term Time",
     "summary": {
       "fill_time": "Never",
