@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import calendar
 import json
 import os
 
@@ -8,7 +9,7 @@ LOW_OBSERVATION_THRESHOLD = 5
 Z_SCORE_99 = 2.576
 FULL_THRESHOLD = 0.8
 
-# 1. Facility Name Mapping
+# Facility Name Mapping
 NAME_MAPPING = {
     "Park&Ride - Ashfield": "Ashfield",
     "Park&Ride - Bella Vista": "Bella Vista",
@@ -51,19 +52,9 @@ NAME_MAPPING = {
     "Park&Ride - West Ryde": "West Ryde"
 }
 
-# 2. Day Mapping
-DAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
-
-# 3. Sort Order (To ensure Monday is the first day in the dropdown)
-DAY_SORT_ORDER = {
-    "Monday": 0,
-    "Tuesday": 1,
-    "Wednesday": 2,
-    "Thursday": 3,
-    "Friday": 4,
-    "Saturday": 5,
-    "Sunday": 6
-}
+# Day Mapping
+DAYS = list(calendar.day_name)
+DAY_SORT_ORDER = {name: i for i, name in enumerate(DAYS)}
 
 def get_time_label(bin_index):
     """
