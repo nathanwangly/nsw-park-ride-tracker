@@ -7,6 +7,7 @@ from datetime import datetime
 RAW_DIR = Path("data/raw")
 HOLIDAY_FILE = Path("data/config/school_holidays.json")
 MASTER_FILE = Path("data/processed/master_stats.csv")
+DECAY_RATE = 0.96  # Weight = 0.96^(months_old)
 
 def load_holiday_ranges():
     """Loads holiday date ranges from your manual JSON file."""
@@ -60,21 +61,30 @@ def create_model_keys(df):
     
     return df
 
-def aggregate_to_stats(df):
-    df["is_full"] = (df["available"] == 0).astype(int)
+def calculate_monthly_weight(dt):
+    """Calculates weight based on months elapsed since the data point."""
+    today = datetime.now()
+    months_diff = (today.year - dt.year) * 12 + (today.month - dt.month)
+    return max(0.05, DECAY_RATE ** max(0, months_diff))
 
-    # Note: We include is_school_holiday in the grouping
-    return df.groupby([
-        "facility_name",
-        "day_of_week",
-        "time_bin",
-        "is_school_holiday"
-    ]).agg(
-        n=("available", "count"),
-        sum_available=("available", "sum"),
-        sum_sq_available=("available", lambda x: (x**2).sum()),
-        full_count=("is_full", "sum")
-    ).reset_index()
+def aggregate_to_stats(df):
+    # 1. Calculate weights for every row
+    df['weight'] = df['timestamp_local'].apply(calculate_monthly_weight)
+    
+    # 2. Prepare metrics
+    df["is_full"] = (df["available"] == 0).astype(int)
+    
+    # 3. Weighted Aggregation
+    stats = df.groupby([
+        "facility_name", "day_of_week", "time_bin", "is_school_holiday"
+    ]).apply(lambda x: pd.Series({
+        "n": x["weight"].sum(),
+        "sum_available": (x["available"] * x["weight"]).sum(),
+        "sum_sq_available": ((x["available"]**2) * x["weight"]).sum(),
+        "full_count": (x["is_full"] * x["weight"]).sum()
+    })).reset_index()
+    
+    return stats
 
 def main():
     df = load_all_raw_data()
@@ -84,7 +94,7 @@ def main():
         
         MASTER_FILE.parent.mkdir(parents=True, exist_ok=True)
         stats.to_csv(MASTER_FILE, index=False)
-        print(f"Master stats updated using manual holiday list.")
+        print(f"Master stats updated successfully.")
 
 if __name__ == "__main__":
     main()
