@@ -1,0 +1,90 @@
+import pandas as pd
+import json
+from pathlib import Path
+from datetime import datetime
+
+# Configuration
+RAW_DIR = Path("data/raw")
+HOLIDAY_FILE = Path("data/config/school_holidays.json")
+MASTER_FILE = Path("data/processed/master_stats.csv")
+
+def load_holiday_ranges():
+    """Loads holiday date ranges from your manual JSON file."""
+    if not HOLIDAY_FILE.exists():
+        return []
+    with open(HOLIDAY_FILE, 'r') as f:
+        data = json.load(f)
+        # Convert string dates to datetime objects for easy comparison
+        return [
+            (datetime.strptime(h['start'], '%Y-%m-%d').date(), 
+             datetime.strptime(h['end'], '%Y-%m-%d').date())
+            for h in data.get("nsw_school_holidays", [])
+        ]
+
+def is_school_holiday(dt, holiday_ranges):
+    """Checks if a given datetime is within any of the holiday ranges."""
+    check_date = dt.date()
+    for start, end in holiday_ranges:
+        if start <= check_date <= end:
+            return True
+    return False
+
+def load_all_raw_data():
+    all_files = list(RAW_DIR.rglob("*.csv"))
+    if not all_files:
+        return None
+
+    li = [pd.read_csv(f) for f in all_files]
+    df = pd.concat(li, axis=0, ignore_index=True)
+
+    df["timestamp_utc"] = pd.to_datetime(df["timestamp_utc"], utc=True)
+    df["timestamp_local"] = df["timestamp_utc"].dt.tz_convert("Australia/Sydney")
+    
+    df = df[df["occupied"].notna() & (df["occupied"] >= 0)]
+    return df
+
+def create_model_keys(df):
+    # 1. Load your manual holidays
+    holiday_ranges = load_holiday_ranges()
+    
+    # 2. Flag rows (True/False)
+    df["is_school_holiday"] = df["timestamp_local"].apply(
+        lambda x: is_school_holiday(x, holiday_ranges)
+    )
+    
+    # 3. Time keys
+    df["day_of_week"] = df["timestamp_local"].dt.dayofweek
+    df["hour"] = df["timestamp_local"].dt.hour
+    df["minute"] = df["timestamp_local"].dt.minute
+    df["time_bin"] = df["hour"] * 6 + (df["minute"] // 10)
+    
+    return df
+
+def aggregate_to_stats(df):
+    df["is_full"] = (df["available"] == 0).astype(int)
+
+    # Note: We include is_school_holiday in the grouping
+    return df.groupby([
+        "facility_name",
+        "day_of_week",
+        "time_bin",
+        "is_school_holiday"
+    ]).agg(
+        n=("available", "count"),
+        sum_available=("available", "sum"),
+        sum_sq_available=("available", lambda x: (x**2).sum()),
+        full_count=("is_full", "sum")
+    ).reset_index()
+
+def main():
+    df = load_all_raw_data()
+    if df is not None:
+        df = create_model_keys(df)
+        stats = aggregate_to_stats(df)
+        
+        MASTER_FILE.parent.mkdir(parents=True, exist_ok=True)
+        stats.to_csv(MASTER_FILE, index=False)
+        print(f"Master stats updated using manual holiday list.")
+
+if __name__ == "__main__":
+    main()
