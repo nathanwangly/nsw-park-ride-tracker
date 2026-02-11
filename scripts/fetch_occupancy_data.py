@@ -2,7 +2,7 @@ import os
 import requests
 import time
 import csv
-from datetime import datetime, time as dtime
+from datetime import datetime, timezone, time as dtime
 
 # Base URL for the Car Park API
 BASE_URL = "https://api.transport.nsw.gov.au/v1/carpark"
@@ -93,7 +93,7 @@ def fetch_all_park_and_ride():
 
                 # 3. Append to results (CSV handles 'None' as an empty cell)
                 results.append({
-                    "timestamp_utc": data.get("MessageDate"),
+                    "timestamp_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                     "facility_id": fid,
                     "facility_name": data.get("facility_name"),
                     "tfnsw_facility_id": data.get("tfnsw_facility_id"),
@@ -110,7 +110,7 @@ def fetch_all_park_and_ride():
             time.sleep(0.2) # Recommended delay between requests
 
         except Exception as e:
-            print(f" ! Error fetching ID {fid}: {e}")
+            print(f" ! Error fetching ID {fid}: {type(e).__name__} - {e}")
 
     return results
 
