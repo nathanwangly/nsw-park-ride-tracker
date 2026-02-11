@@ -96,7 +96,7 @@ def process_insights(stats_csv_path, output_path):
     # Statistical Calculations
     df['mean_available'] = df['sum_available'] / df['n']
     df['variance'] = np.where(
-        df['n'] > 1,
+        df['n'] > 1.1,
         (df['sum_sq_available'] - (df['sum_available']**2 / df['n'])) / (df['n'] - 1),
         0
     ).clip(min=0)
