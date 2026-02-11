@@ -62,7 +62,7 @@ def create_model_keys(df):
     return df
 
 def calculate_monthly_weight(dt):
-    """Calculates weight based on months elapsed since the data point."""
+    # Calculates weight based on months elapsed since the data point.
     today = datetime.now()
     months_diff = (today.year - dt.year) * 12 + (today.month - dt.month)
     return max(0.05, DECAY_RATE ** max(0, months_diff))
