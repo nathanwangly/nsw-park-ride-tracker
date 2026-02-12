@@ -97,9 +97,11 @@ def process_insights(stats_csv_path, output_path):
     
     # Group by Facility, Holiday Status, and Day
     group_cols = ['facility_name', 'is_school_holiday', 'day_of_week']
-    for (facility_raw, is_holiday, day_num), group in df.groupby(group_cols):
+    for (facility_raw, is_school_holiday, day_num), group in df.groupby(group_cols):
         sorted_group = group.sort_values('time_bin')
         
+        is_low_data_aggregate = (group['n'] <= LOW_OBSERVATION_THRESHOLD).any()
+
         pretty_name = NAME_MAPPING.get(facility_raw, facility_raw)
         day_name = DAYS[day_num]
         
@@ -125,15 +127,15 @@ def process_insights(stats_csv_path, output_path):
                 "label": get_time_label(int(row['time_bin'])),
                 "avg": round(float(row['mean_available']), 1),
                 "se": round(float(row['std_err']), 2),
-                "full_prob": round(float(row['prob_full']), 3),
-                "low_data": "YES" if row['n'] <= LOW_OBSERVATION_THRESHOLD else "NO"
+                "full_prob": round(float(row['prob_full']), 3)
             })
 
         readable_output.append({
             "facility": pretty_name,
             "day": day_name,
             "day_priority": DAY_SORT_ORDER[day_name],
-            "status": "Holiday" if is_holiday else "Term Time",
+            "status": "School Holiday" if is_school_holiday else "Normal",
+            "low_data_warning": bool(is_low_data_aggregate),
             "summary": {
                 "fill_time": fill_time_label,
                 "empty_time": empty_time_label,
@@ -150,7 +152,7 @@ def process_insights(stats_csv_path, output_path):
     with open(output_path, 'w') as f:
         json.dump(readable_output, f, indent=2)
     
-    print(f"Successfully generated readable insights at {output_path}")
+    print(f"Successfully generated {output_path}")
 
 if __name__ == "__main__":
     process_insights('data/processed/master_stats.csv', 'data/processed/insights.json')
