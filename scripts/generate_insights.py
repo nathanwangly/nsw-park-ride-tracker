@@ -6,7 +6,9 @@ import os
 
 # --- Configuration ---
 LOW_OBSERVATION_THRESHOLD = 5
-FULL_THRESHOLD = 0.8
+FULL_PROB_THRESHOLD = 0.80  # X%: Must be full at least 80% of observed days
+RECOVERY_SPOTS = 10         # N: Number of spots to signal "availability"
+RECOVERY_PROB = 0.20        # The chance of being full must drop significantly
 
 # Facility Name Mapping
 NAME_MAPPING = {
@@ -51,29 +53,15 @@ NAME_MAPPING = {
     "Park&Ride - West Ryde": "West Ryde"
 }
 
-# Day Mapping
 DAYS = list(calendar.day_name)
 DAY_SORT_ORDER = {name: i for i, name in enumerate(DAYS)}
 
 def get_time_label(bin_index):
-    """
-    Reverse engineers the time_bin logic:
-    bin_index = hour * 6 + (minute // 10)
-    """
-    # 1. Calculate the hour (0-23)
     hour = bin_index // 6
-    
-    # 2. Calculate the minute (the start of the 10-min window)
     minute = (bin_index % 6) * 10
-    
-    # 3. Determine AM/PM
     period = "AM" if hour < 12 else "PM"
-    
-    # 4. Convert 24h to 12h format
     display_hour = hour % 12
-    if display_hour == 0:
-        display_hour = 12
-        
+    if display_hour == 0: display_hour = 12
     return f"{display_hour}:{minute:02d} {period}"
 
 def process_insights(stats_csv_path, output_path):
@@ -95,31 +83,45 @@ def process_insights(stats_csv_path, output_path):
 
     readable_output = []
     
-    # Group by Facility, Holiday Status, and Day
     group_cols = ['facility_name', 'is_school_holiday', 'day_of_week']
     for (facility_raw, is_school_holiday, day_num), group in df.groupby(group_cols):
         sorted_group = group.sort_values('time_bin')
         
+        # 1. Aggregate Low Data Flag
         is_low_data_aggregate = (group['n'] <= LOW_OBSERVATION_THRESHOLD).any()
 
         pretty_name = NAME_MAPPING.get(facility_raw, facility_raw)
         day_name = DAYS[day_num]
         
-        # Calculate Fill Time Label
-        full_bins = sorted_group[sorted_group['prob_full'] >= FULL_THRESHOLD]
-        fill_time_bin = full_bins['time_bin'].iloc[0] if not full_bins.empty else None
-        fill_time_label = get_time_label(int(fill_time_bin)) if fill_time_bin is not None else "Never"
+        # 2. Probability-based Fill/Empty Logic
+        max_daily_prob = sorted_group['prob_full'].max()
         
-        # Calculate Empty Time Label
-        empty_time_label = "Unknown"
-        if not full_bins.empty:
+        if max_daily_prob < FULL_PROB_THRESHOLD:
+            fill_time_label = "Rarely full"
+            empty_time_label = "Available"
+        else:
+            # Calculate Fill Time (First bin hitting threshold)
+            typical_fill_bins = sorted_group[sorted_group['prob_full'] >= FULL_PROB_THRESHOLD]
+            fill_time_bin = typical_fill_bins['time_bin'].iloc[0]
+            fill_time_label = get_time_label(int(fill_time_bin))
+
+            # Calculate Empty Time (Recovery threshold)
             min_avail_idx = sorted_group['mean_available'].idxmin()
             post_peak = sorted_group.loc[min_avail_idx:]
-            recovery = post_peak[post_peak['mean_available'] > (post_peak['mean_available'].min() + 5)]
-            empty_bin = recovery['time_bin'].iloc[0] if not recovery.empty else full_bins['time_bin'].iloc[-1]
-            empty_time_label = get_time_label(int(empty_bin))
 
-        # Generate Time Series
+            recovery = post_peak[
+                (post_peak['mean_available'] >= RECOVERY_SPOTS) & 
+                (post_peak['prob_full'] < RECOVERY_PROB)
+            ]
+
+            if not recovery.empty:
+                empty_bin = recovery['time_bin'].iloc[0]
+                empty_time_label = get_time_label(int(empty_bin))
+            else:
+                # Fallback if data ends while still full
+                empty_time_label = "After 10:00 PM"
+
+        # 3. Generate Time Series
         clean_series = []
         for _, row in sorted_group.iterrows():
             clean_series.append({
@@ -134,25 +136,24 @@ def process_insights(stats_csv_path, output_path):
             "facility": pretty_name,
             "day": day_name,
             "day_priority": DAY_SORT_ORDER[day_name],
-            "status": "School Holiday" if is_school_holiday else "Normal",
+            "status": "School Holiday" if is_school_holiday else "Normal Period",
             "low_data_warning": bool(is_low_data_aggregate),
             "summary": {
                 "fill_time": fill_time_label,
                 "empty_time": empty_time_label,
-                "max_full_prob": float(sorted_group['prob_full'].max())
+                "max_full_prob": float(max_daily_prob)
             },
             "series": clean_series
         })
 
-    # Sort by Facility name first, then by the custom day_priority (0=Mon, 6=Sun)
+    # Sort Output
     readable_output.sort(key=lambda x: (x['facility'], x['status'], x['day_priority']))
 
-    # Save Output
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, 'w') as f:
         json.dump(readable_output, f, indent=2)
     
-    print(f"Successfully generated {output_path}")
+    print(f"Successfully generated insights at {output_path}")
 
 if __name__ == "__main__":
     process_insights('data/processed/master_stats.csv', 'data/processed/insights.json')
