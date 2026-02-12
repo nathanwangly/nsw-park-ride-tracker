@@ -3,11 +3,11 @@
     "facility": "Ashfield",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -290,11 +290,11 @@
     "facility": "Bella Vista",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -577,11 +577,11 @@
     "facility": "Beverly Hills",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -864,11 +864,11 @@
     "facility": "Brookvale",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "9:30 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1151,11 +1151,11 @@
     "facility": "Campbelltown Farrow Rd (north)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "5:30 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1438,11 +1438,11 @@
     "facility": "Campbelltown Hurley St",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "11:10 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1725,11 +1725,11 @@
     "facility": "Cherrybrook",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "6:50 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2012,11 +2012,11 @@
     "facility": "Dee Why",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "10:20 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2299,11 +2299,11 @@
     "facility": "Edmondson Park (north)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -2586,11 +2586,11 @@
     "facility": "Edmondson Park (south)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -2873,11 +2873,11 @@
     "facility": "Emu Plains",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -3160,11 +3160,11 @@
     "facility": "Gordon Henry St (north)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -3447,11 +3447,11 @@
     "facility": "Gosford",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -3734,11 +3734,11 @@
     "facility": "Hills Showground",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4021,11 +4021,11 @@
     "facility": "Hornsby",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:40 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4308,11 +4308,11 @@
     "facility": "Kellyville (north)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "9:10 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4595,11 +4595,11 @@
     "facility": "Kellyville (south)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4882,11 +4882,11 @@
     "facility": "Kiama",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -5169,11 +5169,11 @@
     "facility": "Kogarah",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -5456,11 +5456,11 @@
     "facility": "Leppington",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -5743,11 +5743,11 @@
     "facility": "Lindfield Village Green",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6030,11 +6030,11 @@
     "facility": "Manly Vale",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6317,11 +6317,11 @@
     "facility": "Mona Vale",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:10 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6604,11 +6604,11 @@
     "facility": "Narrabeen",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:40 AM",
-      "empty_time": "11:10 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6891,11 +6891,11 @@
     "facility": "North Rocks",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:50 AM",
-      "empty_time": "10:00 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -7178,11 +7178,11 @@
     "facility": "Penrith (at-grade)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -7465,11 +7465,11 @@
     "facility": "Penrith (multi-level)",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -7752,11 +7752,11 @@
     "facility": "Revesby",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -8039,11 +8039,11 @@
     "facility": "Riverwood",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -8326,11 +8326,11 @@
     "facility": "Schofields",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -8613,11 +8613,11 @@
     "facility": "Seven Hills",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -8900,11 +8900,11 @@
     "facility": "St Marys",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -9187,11 +9187,11 @@
     "facility": "Sutherland",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -9474,11 +9474,11 @@
     "facility": "Tallawong P1",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -9761,11 +9761,11 @@
     "facility": "Tallawong P2",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:20 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10048,11 +10048,11 @@
     "facility": "Tallawong P3",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:10 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10335,11 +10335,11 @@
     "facility": "Warriewood",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "9:00 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10622,11 +10622,11 @@
     "facility": "Warwick Farm",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
+      "fill_time": "Rarely full",
+      "empty_time": "Available",
       "max_full_prob": 0.0
     },
     "series": [
@@ -10909,11 +10909,11 @@
     "facility": "West Ryde",
     "day": "Thursday",
     "day_priority": 3,
-    "status": "Normal",
+    "status": "Normal Period",
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "11:20 AM",
+      "empty_time": "After 10pm",
       "max_full_prob": 1.0
     },
     "series": [
