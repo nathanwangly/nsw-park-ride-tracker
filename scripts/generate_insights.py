@@ -119,7 +119,7 @@ def process_insights(stats_csv_path, output_path):
                 empty_time_label = get_time_label(int(empty_bin))
             else:
                 # Fallback if data ends while still full
-                empty_time_label = "After 10:00PM"
+                empty_time_label = "After 10:00 PM"
 
         # 3. Generate Time Series
         clean_series = []
