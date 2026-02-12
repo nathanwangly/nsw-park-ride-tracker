@@ -6,7 +6,6 @@ import os
 
 # --- Configuration ---
 LOW_OBSERVATION_THRESHOLD = 5
-Z_SCORE_99 = 2.576
 FULL_THRESHOLD = 0.8
 
 # Facility Name Mapping
@@ -92,8 +91,6 @@ def process_insights(stats_csv_path, output_path):
         0
     ).clip(min=0)
     df['std_err'] = np.sqrt(df['variance']) / np.sqrt(df['n'])
-    df['ci_99_lower'] = (df['mean_available'] - (Z_SCORE_99 * df['std_err'])).clip(lower=0)
-    df['ci_99_upper'] = df['mean_available'] + (Z_SCORE_99 * df['std_err'])
     df['prob_full'] = (df['full_count'] / df['n']).round(4)
 
     readable_output = []
@@ -127,8 +124,7 @@ def process_insights(stats_csv_path, output_path):
                 "bin": int(row['time_bin']),
                 "label": get_time_label(int(row['time_bin'])),
                 "avg": round(float(row['mean_available']), 1),
-                "low": round(float(row['ci_99_lower']), 1),
-                "high": round(float(row['ci_99_upper']), 1),
+                "se": round(float(row['std_err']), 2),
                 "full_prob": round(float(row['prob_full']), 3),
                 "low_data": "YES" if row['n'] <= LOW_OBSERVATION_THRESHOLD else "NO"
             })
