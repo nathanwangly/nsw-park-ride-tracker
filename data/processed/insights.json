@@ -6,7 +6,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -201,6 +201,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -211,7 +331,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -402,6 +522,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
@@ -611,6 +851,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 123.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 122.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 117.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 116.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 116.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 115.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 115.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 111.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 111.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 106.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -621,7 +981,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "8:00 AM",
+      "empty_time": "9:30 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -816,6 +1176,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -826,7 +1306,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "5:30 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1021,6 +1501,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -1031,7 +1631,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:10 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1226,6 +1826,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -1236,7 +1956,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "6:50 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1431,6 +2151,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -1440,9 +2280,9 @@
     "day_priority": 3,
     "status": "Term Time",
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
-      "max_full_prob": 0.0
+      "fill_time": "10:20 AM",
+      "empty_time": "11:20 AM",
+      "max_full_prob": 1.0
     },
     "series": [
       {
@@ -1635,6 +2475,126 @@
         "avg": 10.0,
         "se": 0.0,
         "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
         "low_data": "YES"
       }
     ]
@@ -1838,6 +2798,126 @@
         "bin": 53,
         "label": "8:50 AM",
         "avg": 781.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 780.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 778.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 778.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 778.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 775.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 772.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 770.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 771.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 769.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 768.0,
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
@@ -2046,6 +3126,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 308.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 290.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 276.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 271.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 268.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 263.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 254.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 248.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 242.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 234.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 227.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 227.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 225.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 222.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 218.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -2251,6 +3451,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 684.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 682.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 678.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -2261,7 +3581,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2452,6 +3772,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
@@ -2661,6 +4101,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 74.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 70.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 64.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 56.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 49.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 45.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 25.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -2671,7 +4231,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2866,6 +4426,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -2876,7 +4556,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:40 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -3071,6 +4751,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -3080,9 +4880,9 @@
     "day_priority": 3,
     "status": "Term Time",
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
-      "max_full_prob": 0.0
+      "fill_time": "9:10 AM",
+      "empty_time": "11:20 AM",
+      "max_full_prob": 1.0
     },
     "series": [
       {
@@ -3276,6 +5076,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -3286,7 +5206,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -3477,6 +5397,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
@@ -3686,6 +5726,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -3696,7 +5856,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -3887,6 +6047,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
@@ -4096,6 +6376,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 411.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 396.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 387.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 380.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 368.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 365.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 359.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 345.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 337.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 333.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 328.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 324.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 320.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 322.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 320.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -4106,7 +6506,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4301,6 +6701,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -4311,7 +6831,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4506,6 +7026,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -4516,7 +7156,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:10 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4711,6 +7351,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -4721,7 +7481,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:40 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:10 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4916,6 +7676,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -4926,7 +7806,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:50 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "10:00 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -5120,6 +8000,126 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0,
         "low_data": "YES"
       }
     ]
@@ -5323,6 +8323,126 @@
         "bin": 53,
         "label": "8:50 AM",
         "avg": 117.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 115.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 109.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 104.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 101.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 100.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 99.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 95.0,
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
@@ -5531,6 +8651,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 425.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 420.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 414.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 412.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 411.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 404.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 402.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 400.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 394.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 389.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 386.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 378.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 376.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 373.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 372.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -5733,6 +8973,126 @@
         "bin": 53,
         "label": "8:50 AM",
         "avg": 185.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 165.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 150.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 141.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 136.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 127.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 122.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 109.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 100.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 96.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 92.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 90.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 89.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 86.0,
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
@@ -5941,6 +9301,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -5951,7 +9431,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6142,6 +9622,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
@@ -6351,6 +9951,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 719.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 686.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 675.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 657.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 645.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 631.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 622.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 613.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 605.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 601.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 590.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 589.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 581.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 575.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 570.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -6553,6 +10273,126 @@
         "bin": 53,
         "label": "8:50 AM",
         "avg": 202.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 195.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 192.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 186.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 182.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 178.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 176.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 175.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 172.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 171.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 169.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 167.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 164.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 163.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 163.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 164.0,
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
@@ -6761,6 +10601,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -6771,7 +10731,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6966,6 +10926,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -6976,7 +11056,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:20 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -7171,6 +11251,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -7181,7 +11381,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:10 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -7376,6 +11576,126 @@
         "se": 0.0,
         "full_prob": 1.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -7385,9 +11705,9 @@
     "day_priority": 3,
     "status": "Term Time",
     "summary": {
-      "fill_time": "Never",
-      "empty_time": "Unknown",
-      "max_full_prob": 0.0
+      "fill_time": "9:00 AM",
+      "empty_time": "11:20 AM",
+      "max_full_prob": 1.0
     },
     "series": [
       {
@@ -7580,6 +11900,126 @@
         "avg": 4.0,
         "se": 0.0,
         "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
         "low_data": "YES"
       }
     ]
@@ -7786,6 +12226,126 @@
         "se": 0.0,
         "full_prob": 0.0,
         "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 417.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 408.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 403.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 396.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 394.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 391.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 386.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 382.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 376.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 373.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 366.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 364.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 362.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 361.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
+        "avg": 358.0,
+        "se": 0.0,
+        "full_prob": 0.0,
+        "low_data": "YES"
       }
     ]
   },
@@ -7796,7 +12356,7 @@
     "status": "Term Time",
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "8:50 AM",
+      "empty_time": "11:20 AM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -7987,6 +12547,126 @@
       {
         "bin": 53,
         "label": "8:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 54,
+        "label": "9:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 55,
+        "label": "9:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 56,
+        "label": "9:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 57,
+        "label": "9:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 58,
+        "label": "9:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 59,
+        "label": "9:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 60,
+        "label": "10:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 61,
+        "label": "10:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 62,
+        "label": "10:20 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 63,
+        "label": "10:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 64,
+        "label": "10:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 65,
+        "label": "10:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 66,
+        "label": "11:00 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 67,
+        "label": "11:10 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0,
+        "low_data": "YES"
+      },
+      {
+        "bin": 68,
+        "label": "11:20 AM",
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0,
