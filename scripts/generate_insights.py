@@ -7,7 +7,7 @@ import os
 # --- Configuration ---
 LOW_OBSERVATION_THRESHOLD = 5
 FULL_PROB_THRESHOLD = 0.80  # X%: Must be full at least 80% of observed days
-RECOVERY_SPOTS = 10         # N: Number of spots to signal "availability"
+RECOVERY_SPOTS = 5         # N: Number of spots to signal "availability"
 RECOVERY_PROB = 0.20        # The chance of being full must drop significantly
 
 # Facility Name Mapping
