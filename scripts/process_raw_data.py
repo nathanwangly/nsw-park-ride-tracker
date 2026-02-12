@@ -2,6 +2,7 @@ import pandas as pd
 import json
 from pathlib import Path
 from datetime import datetime
+import pytz
 
 # Configuration
 RAW_DIR = Path("data/raw")
@@ -63,7 +64,7 @@ def create_model_keys(df):
 
 def calculate_monthly_weight(dt):
     # Calculates weight based on months elapsed since the data point.
-    today = datetime.now()
+    today = datetime.now(pytz.timezone("Australia/Sydney"))
     months_diff = (today.year - dt.year) * 12 + (today.month - dt.month)
     return max(0.05, DECAY_RATE ** max(0, months_diff))
 
