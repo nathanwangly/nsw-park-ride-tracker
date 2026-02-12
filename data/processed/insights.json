@@ -7,7 +7,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -283,6 +283,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 29.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 36.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 45.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 51.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 55.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -294,7 +539,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:20 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -570,6 +815,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 46.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 54.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 63.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 69.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 80.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 89.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 104.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 138.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 169.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -857,6 +1347,251 @@
         "avg": 106.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 103.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 101.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 99.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 99.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 99.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 101.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 103.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 104.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 107.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 108.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 111.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 115.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 116.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 118.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -868,7 +1603,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:30 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1142,6 +1877,251 @@
         "bin": 68,
         "label": "11:20 AM",
         "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 38.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 45.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 57.0,
         "se": 0.0,
         "full_prob": 0.0
       }
@@ -1431,6 +2411,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -1442,7 +2667,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "4:00 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -1718,6 +2943,251 @@
         "avg": 1.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 22.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -1729,7 +3199,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "6:50 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2005,6 +3475,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 46.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 54.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 68.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 70.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -2016,7 +3731,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "10:20 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "4:30 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -2292,6 +4007,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -2577,6 +4537,251 @@
         "bin": 68,
         "label": "11:20 AM",
         "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 769.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 769.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 769.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 768.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 767.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 767.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 767.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 765.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 765.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 765.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 765.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 766.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 767.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 769.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 770.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 772.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 774.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 774.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 774.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 774.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 774.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 776.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 778.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 779.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 780.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 780.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 780.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 782.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 783.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 782.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 783.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 789.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 791.0,
         "se": 0.0,
         "full_prob": 0.0
       }
@@ -2866,6 +5071,251 @@
         "avg": 218.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 215.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 211.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 207.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 205.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 200.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 201.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 193.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 191.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 192.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 195.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 198.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 205.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 206.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 206.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 208.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 208.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 214.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 222.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 223.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 224.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 227.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 235.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 246.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 266.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 274.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 287.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 304.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 315.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 339.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 354.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 378.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 399.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 428.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 470.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 499.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -3153,6 +5603,251 @@
         "avg": 679.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 679.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 682.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 682.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 683.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 684.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 684.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 685.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 685.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 685.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 686.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 686.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 686.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 689.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 690.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 688.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 691.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 691.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 691.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 697.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 697.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 701.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 701.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -3164,7 +5859,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:10 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -3440,6 +6135,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 22.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 27.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 35.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 45.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -3727,6 +6667,251 @@
         "avg": 12.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 27.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 43.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 43.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 44.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 53.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 58.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 73.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 81.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 82.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 80.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 112.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 121.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 153.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 167.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 197.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -3738,7 +6923,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:30 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4014,6 +7199,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 47.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 51.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 69.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 96.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 115.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -4025,7 +7455,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:40 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "4:00 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4301,6 +7731,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 22.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 43.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -4312,7 +7987,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "9:10 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4588,6 +8263,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 42.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 49.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 63.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -4599,7 +8519,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:40 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -4875,6 +8795,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 42.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 57.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 74.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 116.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 141.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 181.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 222.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -5162,6 +9327,251 @@
         "avg": 32.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 29.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 31.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 32.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -5173,7 +9583,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:00 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "2:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -5449,6 +9859,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 40.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 43.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 53.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 56.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 66.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 77.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 84.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 98.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -5736,6 +10391,251 @@
         "avg": 320.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 321.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 324.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 320.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 314.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 310.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 306.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 309.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 304.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 303.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 307.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 307.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 307.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 314.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 318.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 315.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 322.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 324.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 337.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 342.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 350.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 359.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 379.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 394.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 397.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 415.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 437.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 453.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 479.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 499.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 515.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 555.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 589.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 613.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 659.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 705.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -5747,7 +10647,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:50 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:30 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6023,6 +10923,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -6034,7 +11179,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:20 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:10 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6310,6 +11455,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 18.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 25.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 44.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 49.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -6597,6 +11987,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
       }
     ]
   },
@@ -6608,7 +12243,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:40 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "5:10 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -6884,6 +12519,251 @@
         "avg": 1.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -6895,7 +12775,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:50 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:20 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -7169,6 +13049,251 @@
         "bin": 68,
         "label": "11:20 AM",
         "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 29.0,
         "se": 0.0,
         "full_prob": 0.0
       }
@@ -7458,6 +13583,251 @@
         "avg": 95.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 93.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 93.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 93.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 93.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 94.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 95.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 96.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 100.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 100.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 100.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 103.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 105.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 105.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 111.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 112.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 114.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 120.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 122.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 129.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 132.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -7743,6 +14113,251 @@
         "bin": 68,
         "label": "11:20 AM",
         "avg": 372.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 371.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 370.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 370.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 370.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 367.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 364.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 362.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 363.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 361.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 360.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 365.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 367.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 369.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 371.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 374.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 377.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 385.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 383.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 384.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 391.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 393.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 395.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 401.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 403.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 411.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 427.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 431.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 436.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 460.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 470.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 482.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 514.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 521.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 558.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 559.0,
         "se": 0.0,
         "full_prob": 0.0
       }
@@ -8032,6 +14647,251 @@
         "avg": 86.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 87.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 86.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 82.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 79.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 73.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 71.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 72.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 73.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 70.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 72.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 75.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 77.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 79.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 79.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 84.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 88.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 91.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 92.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 102.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 106.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 111.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 123.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 130.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 139.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 160.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 173.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 181.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 187.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 200.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 204.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 239.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 263.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 297.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -8319,6 +15179,251 @@
         "avg": 11.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 23.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 27.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 29.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -8330,7 +15435,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "8:10 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "1:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -8606,6 +15711,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 29.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 41.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 38.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 50.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 51.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 49.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 58.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 68.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 70.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 91.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 101.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 110.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 135.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 136.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 133.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -8891,6 +16241,251 @@
         "bin": 68,
         "label": "11:20 AM",
         "avg": 570.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 560.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 558.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 557.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 666.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 662.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 659.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 654.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 656.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 652.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 658.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 655.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 663.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 663.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 661.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 665.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 671.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 674.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 680.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 681.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 687.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 708.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 717.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 722.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 736.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 749.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 757.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 764.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 779.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 789.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 808.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 838.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 847.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 853.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 908.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 945.0,
         "se": 0.0,
         "full_prob": 0.0
       }
@@ -9180,6 +16775,251 @@
         "avg": 164.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 165.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 163.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 159.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 158.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 155.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 156.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 156.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 154.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 156.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 152.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 155.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 158.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 161.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 161.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 162.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 161.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 162.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 166.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 165.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 169.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 172.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 173.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 180.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 187.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 185.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 192.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 203.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 207.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 215.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 235.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 238.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 246.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 259.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 263.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 263.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -9467,6 +17307,251 @@
         "avg": 4.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 36.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 37.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 42.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 51.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 61.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 72.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 72.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 86.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 105.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 112.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -9478,7 +17563,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "4:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -9754,6 +17839,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -9765,7 +18095,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:20 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10041,6 +18371,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 27.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 41.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 59.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 73.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 97.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 112.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 138.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 161.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -10052,7 +18627,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:10 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:30 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10328,6 +18903,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 9.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 17.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 39.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 48.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 59.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 66.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 85.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 107.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -10339,7 +19159,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "9:00 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "1:40 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -10615,6 +19435,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 1.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 8.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 10.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 11.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 15.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 13.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 19.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 20.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 22.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 28.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 30.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 33.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 34.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 42.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 43.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -10902,6 +19967,251 @@
         "avg": 358.0,
         "se": 0.0,
         "full_prob": 0.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 355.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 353.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 351.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 351.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 349.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 349.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 348.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 347.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 347.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 349.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 347.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 350.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 350.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 349.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 349.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 346.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 347.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 351.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 356.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 357.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 367.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 369.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 370.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 376.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 380.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 385.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 389.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 396.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 405.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 414.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 421.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 430.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 447.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 455.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 470.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   },
@@ -10913,7 +20223,7 @@
     "low_data_warning": true,
     "summary": {
       "fill_time": "7:30 AM",
-      "empty_time": "After 10:00 PM",
+      "empty_time": "3:50 PM",
       "max_full_prob": 1.0
     },
     "series": [
@@ -11189,6 +20499,251 @@
         "avg": 0.0,
         "se": 0.0,
         "full_prob": 1.0
+      },
+      {
+        "bin": 69,
+        "label": "11:30 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 70,
+        "label": "11:40 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 71,
+        "label": "11:50 AM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 72,
+        "label": "12:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 73,
+        "label": "12:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 74,
+        "label": "12:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 75,
+        "label": "12:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 76,
+        "label": "12:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 77,
+        "label": "12:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 78,
+        "label": "1:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 79,
+        "label": "1:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 80,
+        "label": "1:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 81,
+        "label": "1:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 82,
+        "label": "1:40 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 83,
+        "label": "1:50 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 84,
+        "label": "2:00 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 85,
+        "label": "2:10 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 86,
+        "label": "2:20 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 87,
+        "label": "2:30 PM",
+        "avg": 0.0,
+        "se": 0.0,
+        "full_prob": 1.0
+      },
+      {
+        "bin": 88,
+        "label": "2:40 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 89,
+        "label": "2:50 PM",
+        "avg": 2.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 90,
+        "label": "3:00 PM",
+        "avg": 4.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 91,
+        "label": "3:10 PM",
+        "avg": 5.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 92,
+        "label": "3:20 PM",
+        "avg": 3.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 93,
+        "label": "3:30 PM",
+        "avg": 6.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 94,
+        "label": "3:40 PM",
+        "avg": 7.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 95,
+        "label": "3:50 PM",
+        "avg": 12.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 96,
+        "label": "4:00 PM",
+        "avg": 14.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 97,
+        "label": "4:10 PM",
+        "avg": 16.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 98,
+        "label": "4:20 PM",
+        "avg": 21.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 99,
+        "label": "4:30 PM",
+        "avg": 24.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 100,
+        "label": "4:40 PM",
+        "avg": 26.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 101,
+        "label": "4:50 PM",
+        "avg": 35.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 102,
+        "label": "5:00 PM",
+        "avg": 41.0,
+        "se": 0.0,
+        "full_prob": 0.0
+      },
+      {
+        "bin": 103,
+        "label": "5:10 PM",
+        "avg": 44.0,
+        "se": 0.0,
+        "full_prob": 0.0
       }
     ]
   }
