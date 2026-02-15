@@ -3,7 +3,7 @@ name: Update Weekly Insights
 on:
   schedule:
     # 1:00am Monday Sydney time (AEST = UTC+10)
-    # Runs 14:00 Sunday UTC
+    # Runs 15:00 Sunday UTC
     - cron: '0 15 * * 0'
   workflow_dispatch:
 
