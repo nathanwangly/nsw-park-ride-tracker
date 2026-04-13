@@ -6,7 +6,7 @@ import pytz
 
 # Configuration
 RAW_DIR = Path("data/raw")
-HOLIDAY_FILE = Path("data/config/school_holidays.json")
+HOLIDAY_FILE = Path("data/config/nsw_school_holidays.json")
 MASTER_FILE = Path("data/processed/master_stats.csv")
 DECAY_RATE = 0.96  # Weight = 0.96^(months_old)
 
