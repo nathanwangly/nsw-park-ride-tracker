@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 from datetime import datetime
 import pytz
+import holidays
 
 # Configuration
 RAW_DIR = Path("data/raw")
@@ -46,10 +47,12 @@ def load_all_raw_data():
     return df
 
 def create_model_keys(df):
-    # 1. Load your manual holidays
-    holiday_ranges = load_holiday_ranges()
+    # 1. Exclude NSW public holidays
+    nsw_holidays = holidays.Australia(prov="NSW", years=df["timestamp_local"].dt.year.unique())
+    df = df[~df["timestamp_local"].dt.date.isin(nsw_holidays)].copy()
     
-    # 2. Flag rows (True/False)
+    # 2. Flag school holidays
+    holiday_ranges = load_holiday_ranges()
     df["is_school_holiday"] = df["timestamp_local"].apply(
         lambda x: is_school_holiday(x, holiday_ranges)
     )
