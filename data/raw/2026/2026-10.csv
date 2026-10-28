@@ -107787,3 +107787,7 @@ timestamp_utc,facility_id,facility_name,tfnsw_facility_id,suburb,latitude,longit
 2026-10-28T03:17:42Z,35,Park&Ride - Beverly Hills,220910TPR001,Beverly Hills,-33.949744,151.0801,200,136,64,Available
 2026-10-28T03:18:00Z,37,Park&Ride - Riverwood,221010TPR001,Riverwood,-33.952727,151.050035,124,124,0,Full
 2026-10-28T03:18:01Z,38,Park&Ride - North Rocks,2151161TPR001,North Rocks,-33.765539,151.014131,139,135,4,Almost Full
+2026-10-28T03:29:08Z,39,Park&Ride - Edmondson Park (north),217426CCP001,Edmondson Park,-33.9691,150.8616,917,200,717,Available
+2026-10-28T03:29:09Z,486,Park&Ride - Ashfield,213110TPR001,Ashfield,-33.888104,151.126577,228,241,0,Full
+2026-10-28T03:29:10Z,487,Park&Ride - Kogarah,221710TPR001,Kogarah,-33.96369941,151.1319494,259,254,5,Almost Full
+2026-10-28T03:29:32Z,490,Park&Ride - Brookvale,210020TPR001,Brookvale,-33.767366,151.269667,246,240,6,Almost Full
